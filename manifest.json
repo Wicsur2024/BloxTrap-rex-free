@@ -1,0 +1,281 @@
+{
+	"update_url": "https://clients2.google.com/service/update2/crx",
+	"name": "__MSG_name__",
+	"short_name": "RoPro",
+	"description": "__MSG_description__",
+	"default_locale": "en",
+	"author": "RoPro Development Team",
+	"icons": { "16": "icon16.png",
+		   "48": "icon48.png",
+		  "128": "icon128.png" },
+	"version": "1.5.9",
+	"permissions": [
+		"notifications",
+		"cookies",
+		"webNavigation",
+		"tabs",
+		"storage",
+		"*://*.roblox.com/*",
+		"*://*.ropro.io/*",
+		"*://*.rbxcdn.com/*"
+	],
+	"content_scripts": [
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/trade.js"
+			],
+			"css": [
+				"/css/page/trade.css"
+			],
+			"matches": [
+				"*://*.roblox.com/trades*"
+			],
+			"run_at": "document_start"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/tradePreview.js"
+			],
+			"matches": [
+				"*://*.roblox.com/trades*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/profile.js",
+				"/js/page/trade.js",
+				"/js/page/profileThemes.js"
+			],
+			"css": [
+				"/css/page/profile.css",
+				"/css/page/trade.css",
+				"/css/page/profileThemes.css"
+			],
+			"matches": [
+				"*://*.roblox.com/users/*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/item.js",
+				"/js/page/comments.js",
+				"/js/page/resellers.js",
+				"/js/page/wishlist.js"
+				],
+			"css": [
+				"/css/page/item.css",
+				"/css/page/wishlist.css"
+			],
+			"matches": [
+				"*://*.roblox.com/catalog/*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/wishlistMain.js"
+			],
+			"css": [
+				"/css/page/wishlistMain.css"
+			],
+			"matches": [
+				"*://*.roblox.com/offers"
+			],
+			"run_at": "document_start"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/sandbox.js"
+			],
+			"css": [
+				"/css/page/sandbox.css"
+			],
+			"matches": [
+				"*://*.roblox.com/sandbox"
+			],
+			"run_at": "document_start"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/themes.js"
+			],
+			"css": [
+				"/css/page/themes.css"
+			],
+			"matches": [
+				"*://*.roblox.com/themes"
+			],
+			"run_at": "document_start"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/quickPlay.js"
+			],
+			"css": [
+				"/css/page/quickPlay.css"
+			],
+			"matches": [
+				"*://*.roblox.com/*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/additionalMenuItems.js"
+			],
+			"css": [
+				"/css/page/additionalMenuItems.css"
+			],
+			"matches": [
+				"*://*.roblox.com/*"
+			],
+			"run_at": "document_start"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/randomGame.js"
+			],
+			"css": [
+				"/css/page/randomGame.css"
+			],
+			"matches": [
+				"*://*.roblox.com/games#/","*://*.roblox.com/games/","*://*.roblox.com/games","*://*.roblox.com/experiences#/","*://*.roblox.com/experiences/","*://*.roblox.com/experiences","*://*.roblox.com/discover#/","*://*.roblox.com/discover/","*://*.roblox.com/discover"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/gamePage.js",
+				"/js/page/gameFilter.js"
+			],
+			"css": [
+				"/css/page/gamePage.css",
+				"/css/page/gameFilter.css"
+			],
+			"matches": [
+				"*://*.roblox.com/games/*", "*://*.roblox.com/experiences/*", "*://*.roblox.com/experience/*", "*://*.roblox.com/discover/*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/groupPage.js"
+			],
+			"css": [
+				"/css/page/gamePage.css"
+			],
+			"matches": [
+				"*://*.roblox.com/groups/*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/home.js"
+			],
+			"css": [
+				"/css/page/home.css"
+			],
+			"matches": [
+				"*://*.roblox.com/home*"
+			],
+			"run_at": "document_idle"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/friends.js"
+			],
+			"css": [
+				"/css/page/friends.css"
+			],
+			"matches": [
+				"*://*.roblox.com/users/*/friends*",
+				"*://*.roblox.com/users/friends*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/catalog.js"
+			],
+			"css": [
+				"/css/page/catalog.css"
+			],
+			"matches": [
+				"*://*.roblox.com/catalog*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/avatar.js"
+			],
+			"css": [
+				"/css/page/avatar.css"
+			],
+			"matches": [
+				"*://*.roblox.com/my/avatar*"
+			],
+			"run_at": "document_start"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/invite.js"
+			],
+			"matches": [
+				"*://*.ropro.io/join/*",
+				"*://*.ropro.io/invite/*"
+			],
+			"run_at": "document_end"
+		},
+		{
+			"js": [
+				"/js/libraries/jquery-3.5.1.min.js",
+				"/js/page/subscription.js"
+			],
+			"matches": [
+				"*://*.ropro.io/subscription/*"
+			],
+			"run_at": "document_end"
+		}
+	],
+	"background":
+    {
+		"scripts": [
+			"/js/libraries/jquery-3.5.1.min.js",
+			"background.js"
+			],
+		"persistent": true
+	},
+	"web_accessible_resources":
+	[
+		"/js/page/fetchAngular.js",
+		"/js/page/fetchServers.js",
+		"/js/page/fetchAvatar.js",
+		"/images/*"
+	],
+	"browser_action": {
+		"default_title": "RoPro",
+		"default_popup": "options.html"
+	},
+	"manifest_version": 2
+}
