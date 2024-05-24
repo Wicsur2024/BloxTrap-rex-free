@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Таҷрибаи Roblox худро такмил диҳед"
+    },
+    "description": {
+        "message": "Воситаи беҳтарин барои бозигарон ва савдогарон. RoPro ба Roblox даҳҳо хусусиятҳои муфид илова мекунад."
+    },
+    "settings": {
+        "message": "Танзимот"
+    },
+    "manageSubscription": {
+        "message": "Обунаро идора кунед"
+    },
+    "activateSubscription": {
+        "message": "Обунаро фаъол кунед"
+    },
+    "support": {
+        "message": "Дастгирӣ"
+    },
+    "termsOfService": {
+        "message": "Шартҳои хидмат"
+    },
+    "privacyPolicy": {
+        "message": "Сиёсати Корбурди Маълумоти Шахсӣ"
+    },
+    "help": {
+        "message": "Ёрӣ"
+    },
+    "subscription": {
+        "message": "Обуна"
+    },
+    "disclaimer1": {
+        "message": "RoPro бо Roblox.com ё Rolimons.com иртибот надорад"
+    },
+    "disclaimer2": {
+        "message": "Аз ҷониби Dice сохта шудааст.Бо ман тамос гиред: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Хусусиятҳои умумӣ"
+    },
+    "tradingFeatures": {
+        "message": "Хусусиятҳои савдо"
+    },
+    "groupFeatures": {
+        "message": "Хусусиятҳои гурӯҳ"
+    },
+    "accountSecurityFeatures": {
+        "message": "Хусусиятҳои амнияти ҳисоб"
+    },
+    "dealsNotifier": {
+        "message": "Огоҳкунанда"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Барои наҷоти либосҳои худ навсозӣ кунед!"
+    },
+    "Upgrade": {
+        "message": "Навсозӣ"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Лутфан баррасӣ кардани моро баррасӣ кунед!"
+    },
+    "Review": {
+        "message": "Шарҳи"
+    },
+    "CurrentlyWearing": {
+        "message": "Айни замон дар тан"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Барои ҷудо кардани ҷузъ як ҷузъро клик кунед."
+    },
+    "Background": {
+        "message": "Замина"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Замина дар зерро интихоб кунед."
+    },
+    "MyOutfits": {
+        "message": "Либосҳои ман"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Барои пешниҳоди номи либос тугмаи дохилро пахш кунед."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Либоси худро номбар кунед ва захира кунед."
+    },
+    "OutfitCost": {
+        "message": "Арзиши либос:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Либоси бомуваффақият офарида шудааст."
+    },
+    "RandomGame": {
+        "message": "Бозии тасодуфӣ"
+    },
+    "MoreFilters": {
+        "message": "Филтрҳои бештар"
+    },
+    "FastestServers": {
+        "message": "Серверҳои зудтарин"
+    },
+    "MaxPlayers": {
+        "message": "Бозингарони Max"
+    },
+    "TradeOffers": {
+        "message": "Пешниҳодҳои савдо"
+    },
+    "Reputation": {
+        "message": "Эътибори"
+    },
+    "ChangeProfileTheme": {
+        "message": "Мавзӯи профилро тағир диҳед"
+    },
+    "CloseProfileThemes": {
+        "message": "Мавзӯъҳои профилро пӯшед"
+    },
+    "RoProProfileThemes": {
+        "message": "Мавзӯъҳои профили RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Дигар корбарони RoPro ҳангоми ташриф овардан ба профили шумо мавзӯи шуморо хоҳанд дид."
+    },
+    "AnimatedThemes": {
+        "message": "Мавзӯъҳои тасвирӣ"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Мавзӯъҳои мутаҳаррикро танҳо барои муштариён дастрас кардан мумкин аст."
+    },
+    "CustomThemes": {
+        "message": "Мавзӯъҳои фармоишӣ"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Барои пешниҳоди мавзӯи фармоишӣ барои тасдиқ, ба сервери ихтилофи RoPro ҳамроҳ шавед:"
+    },
+    "SaveTheme": {
+        "message": "Мавзӯро захира кунед"
+    },
+    "RemoveTheme": {
+        "message": "Мавзаро нест кунед"
+    },
+    "CreateOffer": {
+        "message": "Эҷод Пешниҳод"
+    },
+    "CloseOffer": {
+        "message": "Пешниҳодҳоро пӯшед"
+    },
+    "Comments": {
+        "message": "Шарҳҳо"
+    },
+    "PostComment": {
+        "message": "Назари худро бинависед"
+    },
+    "WriteAComment": {
+        "message": "Назари худро бинависед!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Ҳанӯз шарҳе нест ... Аввалин касе бошед, ки онро нависед!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Ягон пешниҳоди савдо барои ин ашё ... Аваллин касе бошед, ки онро фиристед!"
+    },
+    "SeeMore": {
+        "message": "Дидани бештар"
+    }
+}

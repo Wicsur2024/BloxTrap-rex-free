@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Boresha Uzoefu wako wa Roblox"
+    },
+    "description": {
+        "message": "Zana kamili kwa wachezaji na wafanyabiashara. RoPro inaongeza kadhaa ya vitu muhimu kwa Roblox."
+    },
+    "settings": {
+        "message": "Mipangilio"
+    },
+    "manageSubscription": {
+        "message": "Dhibiti Usajili"
+    },
+    "activateSubscription": {
+        "message": "Washa Usajili"
+    },
+    "support": {
+        "message": "Msaada"
+    },
+    "termsOfService": {
+        "message": "Masharti ya Huduma"
+    },
+    "privacyPolicy": {
+        "message": "Sera ya faragha"
+    },
+    "help": {
+        "message": "Msaada"
+    },
+    "subscription": {
+        "message": "Usajili"
+    },
+    "disclaimer1": {
+        "message": "RoPro haihusiani na Roblox.com au Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Iliyotengenezwa na Kete.Wasiliana nami: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Makala ya Jumla"
+    },
+    "tradingFeatures": {
+        "message": "Makala ya Biashara"
+    },
+    "groupFeatures": {
+        "message": "Makala ya Kikundi"
+    },
+    "accountSecurityFeatures": {
+        "message": "Vipengele vya Usalama wa Akaunti"
+    },
+    "dealsNotifier": {
+        "message": "Arifa za Mikataba"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Boresha ili kuokoa mavazi yako!"
+    },
+    "Upgrade": {
+        "message": "Boresha"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Tafadhali fikiria kutuachia hakiki!"
+    },
+    "Review": {
+        "message": "Pitia"
+    },
+    "CurrentlyWearing": {
+        "message": "Amevaa Hivi Sasa"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Bonyeza kipengee ili kukifanya kisichofaa."
+    },
+    "Background": {
+        "message": "Usuli"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Chagua chini chini."
+    },
+    "MyOutfits": {
+        "message": "Mavazi yangu"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Bonyeza kitufe cha kuingia ili kuwasilisha jina la mavazi."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Taja na uhifadhi mavazi yako."
+    },
+    "OutfitCost": {
+        "message": "Gharama ya mavazi:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Imeunda mavazi."
+    },
+    "RandomGame": {
+        "message": "Mchezo bila mpangilio"
+    },
+    "MoreFilters": {
+        "message": "Vichungi zaidi"
+    },
+    "FastestServers": {
+        "message": "Seva za haraka zaidi"
+    },
+    "MaxPlayers": {
+        "message": "Wacheza Max"
+    },
+    "TradeOffers": {
+        "message": "Ofa za Biashara"
+    },
+    "Reputation": {
+        "message": "Sifa"
+    },
+    "ChangeProfileTheme": {
+        "message": "Badilisha Mandhari ya Profaili"
+    },
+    "CloseProfileThemes": {
+        "message": "Funga Mada za Profaili"
+    },
+    "RoProProfileThemes": {
+        "message": "Mada za Profaili za RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Watumiaji wengine wa RoPro wataona mada yako wanapotembelea wasifu wako."
+    },
+    "AnimatedThemes": {
+        "message": "Mandhari Uhuishaji"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Mandhari za uhuishaji zinapatikana kwa wanachama tu."
+    },
+    "CustomThemes": {
+        "message": "Mandhari Maalum"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Ili kuwasilisha mandhari maalum ya idhini, jiunge na seva ya kutatanisha ya RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Hifadhi Mandhari"
+    },
+    "RemoveTheme": {
+        "message": "Ondoa Mandhari"
+    },
+    "CreateOffer": {
+        "message": "Unda Ofa"
+    },
+    "CloseOffer": {
+        "message": "Funga Ofa"
+    },
+    "Comments": {
+        "message": "Maoni"
+    },
+    "PostComment": {
+        "message": "Tuma Maoni"
+    },
+    "WriteAComment": {
+        "message": "Andika maoni!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Hakuna maoni bado ... Kuwa wa kwanza kuandika moja!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Hakuna matoleo ya biashara ya bidhaa hii ... Kuwa wa kwanza kutuma moja!"
+    },
+    "SeeMore": {
+        "message": "Ona zaidi"
+    }
+}

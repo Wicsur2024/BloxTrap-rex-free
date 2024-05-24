@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Roblox 경험 향상"
+    },
+    "description": {
+        "message": "플레이어와 트레이더를위한 완벽한 도구입니다. RoPro는 Roblox에 수십 가지 유용한 기능을 추가합니다."
+    },
+    "settings": {
+        "message": "설정"
+    },
+    "manageSubscription": {
+        "message": "구독 관리"
+    },
+    "activateSubscription": {
+        "message": "구독 활성화"
+    },
+    "support": {
+        "message": "지원하다"
+    },
+    "termsOfService": {
+        "message": "서비스 약관"
+    },
+    "privacyPolicy": {
+        "message": "개인 정보 정책"
+    },
+    "help": {
+        "message": "도움"
+    },
+    "subscription": {
+        "message": "신청"
+    },
+    "disclaimer1": {
+        "message": "RoPro는 Roblox.com 또는 Rolimons.com과 관련이 없습니다."
+    },
+    "disclaimer2": {
+        "message": "주사위 제작.저에게 연락 : dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "일반적인 특징"
+    },
+    "tradingFeatures": {
+        "message": "거래 특징"
+    },
+    "groupFeatures": {
+        "message": "그룹 특징"
+    },
+    "accountSecurityFeatures": {
+        "message": "계정 보안 기능"
+    },
+    "dealsNotifier": {
+        "message": "거래 알리미"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "의상을 저장하려면 업그레이드하세요!"
+    },
+    "Upgrade": {
+        "message": "업그레이드"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "리뷰를 남겨주세요!"
+    },
+    "Review": {
+        "message": "리뷰"
+    },
+    "CurrentlyWearing": {
+        "message": "현재 입고"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "장비를 해제하려면 아이템을 클릭하십시오."
+    },
+    "Background": {
+        "message": "배경"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "아래에서 배경을 선택하십시오."
+    },
+    "MyOutfits": {
+        "message": "내 의상"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Enter 키를 눌러 의상 이름을 제출하세요."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "복장의 이름을 지정하고 저장하십시오."
+    },
+    "OutfitCost": {
+        "message": "의상 비용 :"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "의상을 성공적으로 만들었습니다."
+    },
+    "RandomGame": {
+        "message": "랜덤 게임"
+    },
+    "MoreFilters": {
+        "message": "추가 필터"
+    },
+    "FastestServers": {
+        "message": "가장 빠른 서버"
+    },
+    "MaxPlayers": {
+        "message": "최대 플레이어"
+    },
+    "TradeOffers": {
+        "message": "무역 제안"
+    },
+    "Reputation": {
+        "message": "평판"
+    },
+    "ChangeProfileTheme": {
+        "message": "프로필 테마 변경"
+    },
+    "CloseProfileThemes": {
+        "message": "프로필 테마 닫기"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro 프로필 테마"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "다른 RoPro 사용자는 귀하의 프로필을 방문 할 때 귀하의 테마를 보게됩니다."
+    },
+    "AnimatedThemes": {
+        "message": "애니메이션 테마"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "애니메이션 테마는 구독자 만 사용할 수 있습니다."
+    },
+    "CustomThemes": {
+        "message": "맞춤 테마"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "승인을 위해 사용자 정의 테마를 제출하려면 RoPro Discord 서버에 가입하십시오."
+    },
+    "SaveTheme": {
+        "message": "테마 저장"
+    },
+    "RemoveTheme": {
+        "message": "테마 제거"
+    },
+    "CreateOffer": {
+        "message": "제안 생성"
+    },
+    "CloseOffer": {
+        "message": "제안 닫기"
+    },
+    "Comments": {
+        "message": "코멘트"
+    },
+    "PostComment": {
+        "message": "댓글 달기"
+    },
+    "WriteAComment": {
+        "message": "코멘트 쓰기!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "아직 코멘트가 없습니다 ... 첫번째로 작성해주세요!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "이 항목에 대한 거래 제안이 없습니다 ... 첫 번째 항목을 게시하십시오!"
+    },
+    "SeeMore": {
+        "message": "더보기"
+    }
+}

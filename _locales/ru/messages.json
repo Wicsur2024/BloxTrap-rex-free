@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - улучшите свой опыт работы с Roblox"
+    },
+    "description": {
+        "message": "Идеальный инструмент для игроков и трейдеров. RoPro добавляет в Roblox десятки полезных функций."
+    },
+    "settings": {
+        "message": "Настройки"
+    },
+    "manageSubscription": {
+        "message": "Управление подпиской"
+    },
+    "activateSubscription": {
+        "message": "Активировать подписку"
+    },
+    "support": {
+        "message": "Поддерживать"
+    },
+    "termsOfService": {
+        "message": "Условия использования"
+    },
+    "privacyPolicy": {
+        "message": "Политика конфиденциальности"
+    },
+    "help": {
+        "message": "Помощь"
+    },
+    "subscription": {
+        "message": "Подписка"
+    },
+    "disclaimer1": {
+        "message": "RoPro не связан с Roblox.com или Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Сделано Dice.Свяжитесь со мной: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Общие особенности"
+    },
+    "tradingFeatures": {
+        "message": "Торговые особенности"
+    },
+    "groupFeatures": {
+        "message": "Возможности группы"
+    },
+    "accountSecurityFeatures": {
+        "message": "Функции безопасности учетной записи"
+    },
+    "dealsNotifier": {
+        "message": "Уведомление о сделках"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Обновите, чтобы сохранить свои наряды!"
+    },
+    "Upgrade": {
+        "message": "Обновление"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Пожалуйста, оставьте нам отзыв!"
+    },
+    "Review": {
+        "message": "Рассмотрение"
+    },
+    "CurrentlyWearing": {
+        "message": "Носит в настоящее время"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Щелкните элемент, чтобы снять его."
+    },
+    "Background": {
+        "message": "Фон"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Выберите фон ниже."
+    },
+    "MyOutfits": {
+        "message": "Мои наряды"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Нажмите клавишу ввода, чтобы указать название наряда."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Назовите и сохраните свой наряд."
+    },
+    "OutfitCost": {
+        "message": "Стоимость экипировки:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Удачно созданный наряд."
+    },
+    "RandomGame": {
+        "message": "Случайная игра"
+    },
+    "MoreFilters": {
+        "message": "Больше фильтров"
+    },
+    "FastestServers": {
+        "message": "Самые быстрые серверы"
+    },
+    "MaxPlayers": {
+        "message": "Максимум игроков"
+    },
+    "TradeOffers": {
+        "message": "Предложения обмена"
+    },
+    "Reputation": {
+        "message": "Репутация"
+    },
+    "ChangeProfileTheme": {
+        "message": "Изменить тему профиля"
+    },
+    "CloseProfileThemes": {
+        "message": "Закрыть темы профиля"
+    },
+    "RoProProfileThemes": {
+        "message": "Темы профиля RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Другие пользователи RoPro увидят вашу тему при посещении вашего профиля."
+    },
+    "AnimatedThemes": {
+        "message": "Анимированные темы"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Анимированные темы доступны только подписчикам."
+    },
+    "CustomThemes": {
+        "message": "Пользовательские темы"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Чтобы отправить настраиваемую тему на утверждение, присоединяйтесь к серверу Discord RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Сохранить тему"
+    },
+    "RemoveTheme": {
+        "message": "Удалить тему"
+    },
+    "CreateOffer": {
+        "message": "Создать предложение"
+    },
+    "CloseOffer": {
+        "message": "Закрыть предложения"
+    },
+    "Comments": {
+        "message": "Комментарии"
+    },
+    "PostComment": {
+        "message": "Оставьте комментарий"
+    },
+    "WriteAComment": {
+        "message": "Написать комментарий!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Комментариев пока нет ... Напишите первым!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Нет предложений обмена на этот товар ... Разместите его первым!"
+    },
+    "SeeMore": {
+        "message": "Узнать больше"
+    }
+}

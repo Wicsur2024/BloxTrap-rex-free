@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Подобрете своя опит с Roblox"
+    },
+    "description": {
+        "message": "Перфектният инструмент за играчи и търговци.RoPro добавя десетки полезни функции към Roblox."
+    },
+    "settings": {
+        "message": "Настройки"
+    },
+    "manageSubscription": {
+        "message": "Управление на абонамента"
+    },
+    "activateSubscription": {
+        "message": "Активирайте абонамента"
+    },
+    "support": {
+        "message": "поддържа"
+    },
+    "termsOfService": {
+        "message": "Условия за ползване"
+    },
+    "privacyPolicy": {
+        "message": "Политика за поверителност"
+    },
+    "help": {
+        "message": "Помогне"
+    },
+    "subscription": {
+        "message": "Абонамент"
+    },
+    "disclaimer1": {
+        "message": "RoPro не е свързан с Roblox.com или Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Изработено от Dice.Свържете се с мен: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Общи характеристики"
+    },
+    "tradingFeatures": {
+        "message": "Търговски характеристики"
+    },
+    "groupFeatures": {
+        "message": "Групови характеристики"
+    },
+    "accountSecurityFeatures": {
+        "message": "Функции за сигурност на акаунта"
+    },
+    "dealsNotifier": {
+        "message": "Известител за сделки"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Надстройте, за да запазите тоалетите си!"
+    },
+    "Upgrade": {
+        "message": "Подобряване на"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Моля, помислете да ни оставите преглед!"
+    },
+    "Review": {
+        "message": "Преглед"
+    },
+    "CurrentlyWearing": {
+        "message": "Понастоящем носенето"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Щракнете върху елемент, за да го премахнете."
+    },
+    "Background": {
+        "message": "Заден план"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Изберете фон по-долу."
+    },
+    "MyOutfits": {
+        "message": "Моите тоалети"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Натиснете клавиша Enter, за да изпратите име на екипировка."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Назовете и запазете облеклото си."
+    },
+    "OutfitCost": {
+        "message": "Разходи за облекло:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Успешно създадено облекло."
+    },
+    "RandomGame": {
+        "message": "Случайна игра"
+    },
+    "MoreFilters": {
+        "message": "Още филтри"
+    },
+    "FastestServers": {
+        "message": "Най-бързите сървъри"
+    },
+    "MaxPlayers": {
+        "message": "Макс играчи"
+    },
+    "TradeOffers": {
+        "message": "Търговски оферти"
+    },
+    "Reputation": {
+        "message": "Репутация"
+    },
+    "ChangeProfileTheme": {
+        "message": "Промяна на темата на профила"
+    },
+    "CloseProfileThemes": {
+        "message": "Затворете темите на профила"
+    },
+    "RoProProfileThemes": {
+        "message": "Профилни теми на RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Други потребители на RoPro ще видят вашата тема, когато посетят вашия профил."
+    },
+    "AnimatedThemes": {
+        "message": "Анимирани теми"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Анимираните теми са достъпни само за абонати."
+    },
+    "CustomThemes": {
+        "message": "Персонализирани теми"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "За да изпратите персонализирана тема за одобрение, присъединете се към RoPro сървъра за раздори:"
+    },
+    "SaveTheme": {
+        "message": "Запазване на темата"
+    },
+    "RemoveTheme": {
+        "message": "Премахнете темата"
+    },
+    "CreateOffer": {
+        "message": "Създайте оферта"
+    },
+    "CloseOffer": {
+        "message": "Затворете оферти"
+    },
+    "Comments": {
+        "message": "Коментари"
+    },
+    "PostComment": {
+        "message": "Публикувай коментар"
+    },
+    "WriteAComment": {
+        "message": "Напиши коментар!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Все още няма коментари ... Напишете първия!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Няма търговски оферти за този артикул ... Бъдете първият, публикувал такъв!"
+    },
+    "SeeMore": {
+        "message": "Виж повече"
+    }
+}

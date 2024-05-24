@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - ปรับปรุงประสบการณ์ Roblox ของคุณ"
+    },
+    "description": {
+        "message": "เครื่องมือที่สมบูรณ์แบบสำหรับผู้เล่นและผู้ค้า RoPro เพิ่มคุณสมบัติที่มีประโยชน์มากมายให้กับ Roblox"
+    },
+    "settings": {
+        "message": "การตั้งค่า"
+    },
+    "manageSubscription": {
+        "message": "จัดการการสมัครสมาชิก"
+    },
+    "activateSubscription": {
+        "message": "เปิดใช้งานการสมัครสมาชิก"
+    },
+    "support": {
+        "message": "สนับสนุน"
+    },
+    "termsOfService": {
+        "message": "เงื่อนไขการให้บริการ"
+    },
+    "privacyPolicy": {
+        "message": "นโยบายความเป็นส่วนตัว"
+    },
+    "help": {
+        "message": "ช่วยด้วย"
+    },
+    "subscription": {
+        "message": "การสมัครสมาชิก"
+    },
+    "disclaimer1": {
+        "message": "RoPro ไม่มีส่วนเกี่ยวข้องกับ Roblox.com หรือ Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "ทำโดย Diceติดต่อฉัน: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "คุณสมบัติทั่วไป"
+    },
+    "tradingFeatures": {
+        "message": "คุณสมบัติการซื้อขาย"
+    },
+    "groupFeatures": {
+        "message": "คุณสมบัติกลุ่ม"
+    },
+    "accountSecurityFeatures": {
+        "message": "คุณสมบัติความปลอดภัยของบัญชี"
+    },
+    "dealsNotifier": {
+        "message": "ตัวแจ้งข้อเสนอ"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "อัปเกรดเพื่อบันทึกชุดของคุณ!"
+    },
+    "Upgrade": {
+        "message": "อัพเกรด"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "โปรดพิจารณาให้เราตรวจสอบ!"
+    },
+    "Review": {
+        "message": "ทบทวน"
+    },
+    "CurrentlyWearing": {
+        "message": "กำลังสวมอยู่"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "คลิกรายการเพื่อถอดอุปกรณ์"
+    },
+    "Background": {
+        "message": "พื้นหลัง"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "เลือกพื้นหลังด้านล่าง"
+    },
+    "MyOutfits": {
+        "message": "ชุดของฉัน"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "กดปุ่ม Enter เพื่อส่งชื่อเครื่องแต่งกาย"
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "ตั้งชื่อและบันทึกชุดของคุณ"
+    },
+    "OutfitCost": {
+        "message": "ค่าเครื่องแต่งกาย:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "สร้างชุดสำเร็จแล้ว"
+    },
+    "RandomGame": {
+        "message": "เกมสุ่ม"
+    },
+    "MoreFilters": {
+        "message": "ตัวกรองเพิ่มเติม"
+    },
+    "FastestServers": {
+        "message": "เซิร์ฟเวอร์ที่เร็วที่สุด"
+    },
+    "MaxPlayers": {
+        "message": "ผู้เล่นสูงสุด"
+    },
+    "TradeOffers": {
+        "message": "ข้อเสนอการค้า"
+    },
+    "Reputation": {
+        "message": "ชื่อเสียง"
+    },
+    "ChangeProfileTheme": {
+        "message": "เปลี่ยนธีมโปรไฟล์"
+    },
+    "CloseProfileThemes": {
+        "message": "ปิดธีมโปรไฟล์"
+    },
+    "RoProProfileThemes": {
+        "message": "ธีมโปรไฟล์ RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "ผู้ใช้ RoPro คนอื่น ๆ จะเห็นธีมของคุณเมื่อพวกเขาเยี่ยมชมโปรไฟล์ของคุณ"
+    },
+    "AnimatedThemes": {
+        "message": "ธีมเคลื่อนไหว"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "ธีมเคลื่อนไหวมีให้สำหรับสมาชิกเท่านั้น"
+    },
+    "CustomThemes": {
+        "message": "ธีมที่กำหนดเอง"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "ในการส่งธีมที่กำหนดเองเพื่อขออนุมัติเข้าร่วมเซิร์ฟเวอร์ RoPro discord:"
+    },
+    "SaveTheme": {
+        "message": "บันทึกธีม"
+    },
+    "RemoveTheme": {
+        "message": "ลบธีม"
+    },
+    "CreateOffer": {
+        "message": "สร้างข้อเสนอ"
+    },
+    "CloseOffer": {
+        "message": "ปิดข้อเสนอพิเศษ"
+    },
+    "Comments": {
+        "message": "ความคิดเห็น"
+    },
+    "PostComment": {
+        "message": "เขียนความคิดเห็น"
+    },
+    "WriteAComment": {
+        "message": "เขียนความคิดเห็น!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "ยังไม่มีความคิดเห็น ... เขียนเป็นคนแรกสิ!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "ไม่มีข้อเสนอทางการค้าสำหรับสินค้านี้ ... เป็นคนแรกที่โพสต์!"
+    },
+    "SeeMore": {
+        "message": "ดูเพิ่มเติม"
+    }
+}

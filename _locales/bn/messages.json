@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - আপনার রবলক্স অভিজ্ঞতা বাড়ান"
+    },
+    "description": {
+        "message": "খেলোয়াড় এবং ব্যবসায়ীদের জন্য নিখুঁত সরঞ্জাম।RoPro রবলক্সে কয়েক ডজন দরকারী বৈশিষ্ট্য যুক্ত করেছে।"
+    },
+    "settings": {
+        "message": "সেটিংস"
+    },
+    "manageSubscription": {
+        "message": "সাবস্ক্রিপশন পরিচালনা করুন"
+    },
+    "activateSubscription": {
+        "message": "সাবস্ক্রিপশন সক্রিয় করুন"
+    },
+    "support": {
+        "message": "সমর্থন"
+    },
+    "termsOfService": {
+        "message": "সেবা পাবার শর্ত"
+    },
+    "privacyPolicy": {
+        "message": "গোপনীয়তা নীতি"
+    },
+    "help": {
+        "message": "সহায়তা"
+    },
+    "subscription": {
+        "message": "সাবস্ক্রিপশন"
+    },
+    "disclaimer1": {
+        "message": "RoPro রবলক্স.কম বা রোলিমনস ডট কমের সাথে অনুমোদিত নয়"
+    },
+    "disclaimer2": {
+        "message": "পাশা দ্বারা তৈরি।আমার সাথে যোগাযোগ করুন: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "সাধারণ বৈশিষ্ট্য"
+    },
+    "tradingFeatures": {
+        "message": "ট্রেডিং বৈশিষ্ট্য"
+    },
+    "groupFeatures": {
+        "message": "গ্রুপ বৈশিষ্ট্য"
+    },
+    "accountSecurityFeatures": {
+        "message": "অ্যাকাউন্ট সুরক্ষা বৈশিষ্ট্য"
+    },
+    "dealsNotifier": {
+        "message": "ডিলস নোটিফায়ার"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "আপনার পোশাক সংরক্ষণ করতে আপগ্রেড করুন!"
+    },
+    "Upgrade": {
+        "message": "আপগ্রেড"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "আমাদের একটি পর্যালোচনা রেখে বিবেচনা করুন!"
+    },
+    "Review": {
+        "message": "পুনঃমূল্যায়ন"
+    },
+    "CurrentlyWearing": {
+        "message": "বর্তমানে পরা"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "একটি আইটেম এটি সন্ধান করতে ক্লিক করুন।"
+    },
+    "Background": {
+        "message": "পটভূমি"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "নীচে একটি পটভূমি চয়ন করুন।"
+    },
+    "MyOutfits": {
+        "message": "আমার পোষাক"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "পোশাকে নাম জমা দেওয়ার জন্য enter কী টিপুন।"
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "আপনার পোশাকটি নাম দিন এবং সংরক্ষণ করুন।"
+    },
+    "OutfitCost": {
+        "message": "পোশাক খরচ:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "সাফল্যের সাথে সাজসরঞ্জাম তৈরি করা হয়েছে।"
+    },
+    "RandomGame": {
+        "message": "র্যান্ডম গেম"
+    },
+    "MoreFilters": {
+        "message": "আরও ফিল্টার"
+    },
+    "FastestServers": {
+        "message": "দ্রুততম সার্ভারগুলি"
+    },
+    "MaxPlayers": {
+        "message": "সর্বোচ্চ খেলোয়াড়"
+    },
+    "TradeOffers": {
+        "message": "বাণিজ্য অফার"
+    },
+    "Reputation": {
+        "message": "খ্যাতি"
+    },
+    "ChangeProfileTheme": {
+        "message": "প্রোফাইল থিম পরিবর্তন করুন"
+    },
+    "CloseProfileThemes": {
+        "message": "প্রোফাইল থিম বন্ধ করুন"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro প্রোফাইল থিমস"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "অন্যান্য RoPro ব্যবহারকারীরা যখন আপনার প্রোফাইলে যান তখন তারা আপনার থিমটি দেখতে পাবে।"
+    },
+    "AnimatedThemes": {
+        "message": "অ্যানিমেটেড থিমস"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "অ্যানিমেটেড থিমগুলি কেবল গ্রাহকদের জন্য উপলব্ধ।"
+    },
+    "CustomThemes": {
+        "message": "কাস্টম থিমস"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "অনুমোদনের জন্য একটি কাস্টম থিম জমা দিতে, RoPro ডিসকর্ড সার্ভারে যোগ দিন:"
+    },
+    "SaveTheme": {
+        "message": "থিম সংরক্ষণ করুন"
+    },
+    "RemoveTheme": {
+        "message": "থিম সরান"
+    },
+    "CreateOffer": {
+        "message": "অফার তৈরি করুন"
+    },
+    "CloseOffer": {
+        "message": "অফার বন্ধ করুন"
+    },
+    "Comments": {
+        "message": "মন্তব্য"
+    },
+    "PostComment": {
+        "message": "মন্তব্য প্রকাশ করুন"
+    },
+    "WriteAComment": {
+        "message": "একটি মন্তব্য লিখুন!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "কোন মন্তব্য নেই এখনও, এক ক্লিক করুন!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "এই আইটেমটির জন্য কোনও বাণিজ্যের অফার নেই ... পোস্ট দেওয়ার ক্ষেত্রে প্রথম হন!"
+    },
+    "SeeMore": {
+        "message": "আরো দেখুন"
+    }
+}

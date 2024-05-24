@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Pagandahin ang Iyong Karanasan sa Roblox"
+    },
+    "description": {
+        "message": "Ang perpektong tool para sa mga manlalaro at mangangalakal.Nagdaragdag ang RoPro ng dose-dosenang mga kapaki-pakinabang na tampok sa Roblox."
+    },
+    "settings": {
+        "message": "Mga setting"
+    },
+    "manageSubscription": {
+        "message": "Pamahalaan ang Subscription"
+    },
+    "activateSubscription": {
+        "message": "Isaaktibo ang Subscription"
+    },
+    "support": {
+        "message": "Suporta"
+    },
+    "termsOfService": {
+        "message": "Panuntunan ng serbisyo"
+    },
+    "privacyPolicy": {
+        "message": "Patakaran sa Pagkapribado"
+    },
+    "help": {
+        "message": "Tulong"
+    },
+    "subscription": {
+        "message": "subscription"
+    },
+    "disclaimer1": {
+        "message": "Ang RoPro ay hindi kaakibat ng Roblox.com o Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Ginawa ni Dice.Makipag-ugnay sa akin: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Pangkalahatang Mga Tampok"
+    },
+    "tradingFeatures": {
+        "message": "Mga Tampok sa Kalakal"
+    },
+    "groupFeatures": {
+        "message": "Mga Tampok ng Pangkat"
+    },
+    "accountSecurityFeatures": {
+        "message": "Mga Tampok sa Seguridad ng Account"
+    },
+    "dealsNotifier": {
+        "message": "Deal Notifier"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Mag-upgrade upang i-save ang iyong mga outfits!"
+    },
+    "Upgrade": {
+        "message": "Mag-upgrade"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Mangyaring isaalang-alang ang pag-iwan sa amin ng isang pagsusuri!"
+    },
+    "Review": {
+        "message": "Pagsusuri"
+    },
+    "CurrentlyWearing": {
+        "message": "Kasalukuyang Suot"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Mag-click sa isang item upang maipasok ito."
+    },
+    "Background": {
+        "message": "background"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Pumili ng isang background sa ibaba."
+    },
+    "MyOutfits": {
+        "message": "Ang Aking Mga Damit"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Pindutin ang enter key upang magsumite ng pangalan ng sangkap."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Pangalanan at i-save ang iyong sangkap."
+    },
+    "OutfitCost": {
+        "message": "Gastos sa Kasuotan:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Matagumpay na nilikha ang sangkap."
+    },
+    "RandomGame": {
+        "message": "randomNaLaro"
+    },
+    "MoreFilters": {
+        "message": "Marami pang Mga Filter"
+    },
+    "FastestServers": {
+        "message": "Mga pinakamabilis na Server"
+    },
+    "MaxPlayers": {
+        "message": "Mga Max Player"
+    },
+    "TradeOffers": {
+        "message": "Mga Alok sa Kalakal"
+    },
+    "Reputation": {
+        "message": "Reputasyon"
+    },
+    "ChangeProfileTheme": {
+        "message": "Baguhin ang Tema sa Profile"
+    },
+    "CloseProfileThemes": {
+        "message": "Isara ang Mga Tema sa Profile"
+    },
+    "RoProProfileThemes": {
+        "message": "Mga Tema ng Profile ng RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Makikita ng ibang mga gumagamit ng RoPro ang iyong tema kapag binisita nila ang iyong profile."
+    },
+    "AnimatedThemes": {
+        "message": "Mga Animated na Tema"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Ang mga animated na tema ay magagamit lamang para sa mga tagasuskribi."
+    },
+    "CustomThemes": {
+        "message": "Pasadyang Mga Tema"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Upang magsumite ng isang pasadyang tema para sa pag-apruba, sumali sa RoPro discord server:"
+    },
+    "SaveTheme": {
+        "message": "I-save ang Tema"
+    },
+    "RemoveTheme": {
+        "message": "Alisin ang Tema"
+    },
+    "CreateOffer": {
+        "message": "Lumikha ng Alok"
+    },
+    "CloseOffer": {
+        "message": "Isara ang Mga Alok"
+    },
+    "Comments": {
+        "message": "Mga Komento"
+    },
+    "PostComment": {
+        "message": "Mag-post ng Komento"
+    },
+    "WriteAComment": {
+        "message": "Magsulat ng komento!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Wala pang mga puna ... Mauna kang sumulat ng isa!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Walang alok sa kalakalan para sa item na ito ... Mauna kang mag-post ng isa!"
+    },
+    "SeeMore": {
+        "message": "Tingnan ang Higit Pa"
+    }
+}

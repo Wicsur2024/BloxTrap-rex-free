@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - שפר את חוויית  Roblox שלך"
+    },
+    "description": {
+        "message": "הכלי המושלם לשחקנים ולסוחרים. RoPro מוסיף עשרות תכונות שימושיות לרובלוקס."
+    },
+    "settings": {
+        "message": "הגדרות"
+    },
+    "manageSubscription": {
+        "message": "נהל מנוי"
+    },
+    "activateSubscription": {
+        "message": "הפעל מנוי"
+    },
+    "support": {
+        "message": "תמיכה"
+    },
+    "termsOfService": {
+        "message": "תנאי השירות"
+    },
+    "privacyPolicy": {
+        "message": "מדיניות פרטיות"
+    },
+    "help": {
+        "message": "עֶזרָה"
+    },
+    "subscription": {
+        "message": "מִנוּי"
+    },
+    "disclaimer1": {
+        "message": "RoPro אינה קשורה ל- Roblox.com או ל- Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "תוצרת קוביות.צרו איתי קשר: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "מאפיינים כלליים"
+    },
+    "tradingFeatures": {
+        "message": "תכונות מסחר"
+    },
+    "groupFeatures": {
+        "message": "תכונות קבוצתיות"
+    },
+    "accountSecurityFeatures": {
+        "message": "תכונות אבטחת חשבון"
+    },
+    "dealsNotifier": {
+        "message": "מודיע על מבצעים"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "שדרג כדי לשמור את התלבושות שלך!"
+    },
+    "Upgrade": {
+        "message": "שדרוג"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "אנא שקול להשאיר לנו ביקורת!"
+    },
+    "Review": {
+        "message": "סקירה"
+    },
+    "CurrentlyWearing": {
+        "message": "כרגע לובש"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "לחץ על פריט כדי לבטל את אבזורו."
+    },
+    "Background": {
+        "message": "רקע כללי"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "בחר רקע למטה."
+    },
+    "MyOutfits": {
+        "message": "התלבושות שלי"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "לחץ על מקש Enter כדי להגיש את שם התלבושת."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "שם ושמור את התלבושת שלך."
+    },
+    "OutfitCost": {
+        "message": "עלות תלבושת:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "תלבושת שנוצרה בהצלחה."
+    },
+    "RandomGame": {
+        "message": "משחק אקראי"
+    },
+    "MoreFilters": {
+        "message": "עוד פילטרים"
+    },
+    "FastestServers": {
+        "message": "השרתים המהירים ביותר"
+    },
+    "MaxPlayers": {
+        "message": "מקסימום שחקנים"
+    },
+    "TradeOffers": {
+        "message": "הצעות סחר"
+    },
+    "Reputation": {
+        "message": "תדמית"
+    },
+    "ChangeProfileTheme": {
+        "message": "שנה נושא פרופיל"
+    },
+    "CloseProfileThemes": {
+        "message": "סגור ערכות נושא לפרופיל"
+    },
+    "RoProProfileThemes": {
+        "message": "נושאי פרופיל RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "משתמשי RoPro אחרים יראו את הנושא שלך כשיבקרו בפרופיל שלך."
+    },
+    "AnimatedThemes": {
+        "message": "ערכות נושא מונפשות"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "ערכות נושא מונפשות זמינות למנויים בלבד."
+    },
+    "CustomThemes": {
+        "message": "ערכות נושא מותאמות אישית"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "כדי להגיש נושא מותאם אישית לאישור, הצטרף לשרת הדיסקורד RoPro:"
+    },
+    "SaveTheme": {
+        "message": "שמור נושא"
+    },
+    "RemoveTheme": {
+        "message": "הסר נושא"
+    },
+    "CreateOffer": {
+        "message": "צור הצעה"
+    },
+    "CloseOffer": {
+        "message": "סגור מבצעים"
+    },
+    "Comments": {
+        "message": "הערות"
+    },
+    "PostComment": {
+        "message": "פרסם תגובה"
+    },
+    "WriteAComment": {
+        "message": "כתוב הערה!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "אין תגובות עדיין ... היה הראשון לכתוב תגובה!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "אין הצעות סחר לפריט זה ... היה הראשון לפרסם פרסומת!"
+    },
+    "SeeMore": {
+        "message": "ראה עוד"
+    }
+}

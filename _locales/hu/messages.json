@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Növelje Roblox élményét"
+    },
+    "description": {
+        "message": "Tökéletes eszköz játékosok és kereskedők számára.Az RoPro több tucat hasznos funkcióval egészíti ki a Robloxot."
+    },
+    "settings": {
+        "message": "Beállítások"
+    },
+    "manageSubscription": {
+        "message": "Feliratkozás kezelése"
+    },
+    "activateSubscription": {
+        "message": "Aktiválja az Előfizetést"
+    },
+    "support": {
+        "message": "Támogatás"
+    },
+    "termsOfService": {
+        "message": "Szolgáltatás feltételei"
+    },
+    "privacyPolicy": {
+        "message": "Adatvédelmi irányelvek"
+    },
+    "help": {
+        "message": "Segítség"
+    },
+    "subscription": {
+        "message": "Feliratkozás"
+    },
+    "disclaimer1": {
+        "message": "Az RoPro nem áll kapcsolatban a Roblox.com-tal vagy a Rolimons.com-szal"
+    },
+    "disclaimer2": {
+        "message": "Készítette: Dice.Lépjen kapcsolatba velem: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Általános jellemzők"
+    },
+    "tradingFeatures": {
+        "message": "Kereskedési jellemzők"
+    },
+    "groupFeatures": {
+        "message": "Csoport jellemzői"
+    },
+    "accountSecurityFeatures": {
+        "message": "Fiókbiztonsági jellemzők"
+    },
+    "dealsNotifier": {
+        "message": "Ügyletek értesítője"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Frissítsen, hogy megmentse ruháit!"
+    },
+    "Upgrade": {
+        "message": "Frissítés"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Kérjük, fontolja meg, hogy véleményt hagyjon nekünk!"
+    },
+    "Review": {
+        "message": "Felülvizsgálat"
+    },
+    "CurrentlyWearing": {
+        "message": "Jelenleg visel"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Kattintson egy elemre annak feloldásához."
+    },
+    "Background": {
+        "message": "Háttér"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Válasszon egy hátteret alább."
+    },
+    "MyOutfits": {
+        "message": "Outfitjeim"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Nyomja meg az Enter billentyűt a ruházat nevének elküldéséhez."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Nevezze el és mentse el a ruháját."
+    },
+    "OutfitCost": {
+        "message": "Ruházat költsége:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Sikeresen létrehozott ruha."
+    },
+    "RandomGame": {
+        "message": "Véletlenszerű játék"
+    },
+    "MoreFilters": {
+        "message": "További szűrők"
+    },
+    "FastestServers": {
+        "message": "A leggyorsabb szerverek"
+    },
+    "MaxPlayers": {
+        "message": "Maximum játékosok"
+    },
+    "TradeOffers": {
+        "message": "Kereskedelmi ajánlatok"
+    },
+    "Reputation": {
+        "message": "Hírnév"
+    },
+    "ChangeProfileTheme": {
+        "message": "Profiltéma módosítása"
+    },
+    "CloseProfileThemes": {
+        "message": "Bezárja a Profiltémákat"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro profil témák"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "A többi RoPro-felhasználó látni fogja a témáját, amikor meglátogatja profilját."
+    },
+    "AnimatedThemes": {
+        "message": "Animált témák"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Az animált témák csak az előfizetők számára érhetők el."
+    },
+    "CustomThemes": {
+        "message": "Egyéni témák"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Ha egyéni témát szeretne jóváhagyásra benyújtani, csatlakozzon az RoPro diszkord kiszolgálóhoz:"
+    },
+    "SaveTheme": {
+        "message": "Téma mentése"
+    },
+    "RemoveTheme": {
+        "message": "Téma eltávolítása"
+    },
+    "CreateOffer": {
+        "message": "Ajánlat létrehozása"
+    },
+    "CloseOffer": {
+        "message": "Bezárja az Ajánlatokat"
+    },
+    "Comments": {
+        "message": "Hozzászólások"
+    },
+    "PostComment": {
+        "message": "Üzenet elküldése"
+    },
+    "WriteAComment": {
+        "message": "Írj hozzászólást!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Még nincsenek hozzászólások ... Legyél te az első!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Nincs kereskedelmi ajánlat ehhez a cikkhez ... Legyen Ön az első!"
+    },
+    "SeeMore": {
+        "message": "Többet látni"
+    }
+}

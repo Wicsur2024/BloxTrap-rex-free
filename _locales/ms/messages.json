@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Tingkatkan Pengalaman Roblox Anda"
+    },
+    "description": {
+        "message": "Alat yang sempurna untuk pemain & peniaga. RoPro menambah puluhan ciri berguna untuk Roblox."
+    },
+    "settings": {
+        "message": "Tetapan"
+    },
+    "manageSubscription": {
+        "message": "Urus Langganan"
+    },
+    "activateSubscription": {
+        "message": "Aktifkan Langganan"
+    },
+    "support": {
+        "message": "Sokongan"
+    },
+    "termsOfService": {
+        "message": "Syarat Perkhidmatan"
+    },
+    "privacyPolicy": {
+        "message": "Dasar Privasi"
+    },
+    "help": {
+        "message": "Tolonglah"
+    },
+    "subscription": {
+        "message": "Langganan"
+    },
+    "disclaimer1": {
+        "message": "RoPro tidak berafiliasi dengan Roblox.com atau Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Dibuat oleh Dice.Hubungi saya: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Ciri-ciri umum"
+    },
+    "tradingFeatures": {
+        "message": "Ciri Perdagangan"
+    },
+    "groupFeatures": {
+        "message": "Ciri Kumpulan"
+    },
+    "accountSecurityFeatures": {
+        "message": "Ciri Keselamatan Akaun"
+    },
+    "dealsNotifier": {
+        "message": "Pemberitahu Tawaran"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Naik taraf untuk menyelamatkan pakaian anda!"
+    },
+    "Upgrade": {
+        "message": "Naik taraf"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Tolong beri kami ulasan"
+    },
+    "Review": {
+        "message": "Kaji semula"
+    },
+    "CurrentlyWearing": {
+        "message": "Sedang Memakai"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Klik item untuk melengkapkannya."
+    },
+    "Background": {
+        "message": "Latar belakang"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Pilih latar belakang di bawah."
+    },
+    "MyOutfits": {
+        "message": "Pakaian Saya"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Tekan kekunci enter untuk menghantar nama pakaian."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Namakan dan simpan pakaian anda."
+    },
+    "OutfitCost": {
+        "message": "Kos Pakaian:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Pakaian berjaya dibuat."
+    },
+    "RandomGame": {
+        "message": "Permainan Rawak"
+    },
+    "MoreFilters": {
+        "message": "Lebih banyak Penapis"
+    },
+    "FastestServers": {
+        "message": "Pelayan Terpantas"
+    },
+    "MaxPlayers": {
+        "message": "Pemain Max"
+    },
+    "TradeOffers": {
+        "message": "Tawaran Perdagangan"
+    },
+    "Reputation": {
+        "message": "Reputasi"
+    },
+    "ChangeProfileTheme": {
+        "message": "Tukar Tema Profil"
+    },
+    "CloseProfileThemes": {
+        "message": "Tutup Tema Profil"
+    },
+    "RoProProfileThemes": {
+        "message": "Tema Profil RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Pengguna RoPro lain akan melihat tema anda ketika mereka melayari profil anda."
+    },
+    "AnimatedThemes": {
+        "message": "Tema Animasi"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Tema animasi hanya tersedia untuk pelanggan."
+    },
+    "CustomThemes": {
+        "message": "Tema Tersuai"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Untuk menghantar tema khusus untuk kelulusan, sertai pelayan perselisihan RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Simpan Tema"
+    },
+    "RemoveTheme": {
+        "message": "Buang Tema"
+    },
+    "CreateOffer": {
+        "message": "Buat Tawaran"
+    },
+    "CloseOffer": {
+        "message": "Tutup Tawaran"
+    },
+    "Comments": {
+        "message": "Komen"
+    },
+    "PostComment": {
+        "message": "pos komen"
+    },
+    "WriteAComment": {
+        "message": "Tulis komen!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Belum ada komen ... Jadilah orang pertama yang menulis komen!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Tiada tawaran perdagangan untuk item ini ... Jadilah orang pertama yang mengepos item ini!"
+    },
+    "SeeMore": {
+        "message": "Lihat lagi"
+    }
+}

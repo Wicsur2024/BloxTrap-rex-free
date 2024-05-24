@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Палепшыце свой вопыт Roblox"
+    },
+    "description": {
+        "message": "Ідэальны інструмент для гульцоў і трэйдараў. RoPro дадае дзясяткі карысных функцый у Roblox."
+    },
+    "settings": {
+        "message": "Налады"
+    },
+    "manageSubscription": {
+        "message": "Кіраванне падпіскай"
+    },
+    "activateSubscription": {
+        "message": "Актывуйце падпіску"
+    },
+    "support": {
+        "message": "Падтрымка"
+    },
+    "termsOfService": {
+        "message": "Ўмовы абслугоўвання"
+    },
+    "privacyPolicy": {
+        "message": "Палітыка прыватнасці"
+    },
+    "help": {
+        "message": "Дапамажыце"
+    },
+    "subscription": {
+        "message": "Падпіска"
+    },
+    "disclaimer1": {
+        "message": "RoPro не звязаны з Roblox.com або Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Зроблена Dice. Звяжыцеся са мной: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Агульныя рысы"
+    },
+    "tradingFeatures": {
+        "message": "Асаблівасці гандлю"
+    },
+    "groupFeatures": {
+        "message": "Асаблівасці групы"
+    },
+    "accountSecurityFeatures": {
+        "message": "Асаблівасці бяспекі ўліковага запісу"
+    },
+    "dealsNotifier": {
+        "message": "прапановы Notifier"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Абнавіцеся, каб захаваць свае строі!"
+    },
+    "Upgrade": {
+        "message": "Палепшыць"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Калі ласка, пакіньце нам агляд!"
+    },
+    "Review": {
+        "message": "Агляд"
+    },
+    "CurrentlyWearing": {
+        "message": "У цяперашні час Нашэнне"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Націсніце на элемент, каб адключыць яго."
+    },
+    "Background": {
+        "message": "Фон"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Выберыце фон ніжэй."
+    },
+    "MyOutfits": {
+        "message": "Мае ўборы"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Націсніце клавішу ўвод, каб прадставіць нарад імя."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Назавіце і захавайце свой убор."
+    },
+    "OutfitCost": {
+        "message": "Outfit Кошт:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Паспяхова створаны ўбор."
+    },
+    "RandomGame": {
+        "message": "Выпадковая гульня"
+    },
+    "MoreFilters": {
+        "message": "Дадатковыя фільтры"
+    },
+    "FastestServers": {
+        "message": "Самыя хуткія серверы"
+    },
+    "MaxPlayers": {
+        "message": "Макс гульцоў"
+    },
+    "TradeOffers": {
+        "message": "Гандлёвыя прапановы"
+    },
+    "Reputation": {
+        "message": "Рэпутацыя"
+    },
+    "ChangeProfileTheme": {
+        "message": "Змена профілю Theme"
+    },
+    "CloseProfileThemes": {
+        "message": "Зачыніць"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro Профіль Тэмы"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Іншыя карыстальнікі RoPro ўбачаць ваш фон, калі наведаюць ваш профіль."
+    },
+    "AnimatedThemes": {
+        "message": "Анімацыйныя тэмы"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Аніміраваныя тэмы даступныя толькі для падпісчыкаў."
+    },
+    "CustomThemes": {
+        "message": "прыстасаваныя тэмы"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Каб адправіць уласную тэму на зацвярджэнне, далучыцеся да сервера RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Захаваць тэму"
+    },
+    "RemoveTheme": {
+        "message": "Выдаліць"
+    },
+    "CreateOffer": {
+        "message": "Стварыць прапанову"
+    },
+    "CloseOffer": {
+        "message": "Зачыніць"
+    },
+    "Comments": {
+        "message": "Каментары"
+    },
+    "PostComment": {
+        "message": "Пакінуць каментарый"
+    },
+    "WriteAComment": {
+        "message": "Напішы каментарый!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Пакуль няма каментароў ... Будзьце першым, каб напісаць адзін!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Няма гандлёвых прапаноў для гэтага тавару ... Апублікуйце першым!"
+    },
+    "SeeMore": {
+        "message": "Больш падрабязна"
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - ನಿಮ್ಮ Roblox ಅನುಭವವನ್ನು ಹೆಚ್ಚಿಸಿ"
+    },
+    "description": {
+        "message": "ಆಟಗಾರರು ಮತ್ತು ವ್ಯಾಪಾರಿಗಳಿಗೆ ಸೂಕ್ತವಾದ ಸಾಧನ.ರೋಪ್ರೊ ರಾಬ್ಲೋಕ್ಸ್‌ಗೆ ಡಜನ್ಗಟ್ಟಲೆ ಉಪಯುಕ್ತ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ."
+    },
+    "settings": {
+        "message": "ಸಂಯೋಜನೆಗಳು"
+    },
+    "manageSubscription": {
+        "message": "ಚಂದಾದಾರಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ"
+    },
+    "activateSubscription": {
+        "message": "ಚಂದಾದಾರಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+    },
+    "support": {
+        "message": "ಬೆಂಬಲ"
+    },
+    "termsOfService": {
+        "message": "ಸೇವಾ ನಿಯಮಗಳು"
+    },
+    "privacyPolicy": {
+        "message": "ಗೌಪ್ಯತಾ ನೀತಿ"
+    },
+    "help": {
+        "message": "ಸಹಾಯ"
+    },
+    "subscription": {
+        "message": "ಚಂದಾದಾರಿಕೆ"
+    },
+    "disclaimer1": {
+        "message": "ರೋಪ್ರೊ ರಾಬ್ಲೋಕ್ಸ್.ಕಾಮ್ ಅಥವಾ ರೋಲಿಮನ್ಸ್.ಕಾಮ್ನೊಂದಿಗೆ ಸಂಯೋಜಿತವಾಗಿಲ್ಲ"
+    },
+    "disclaimer2": {
+        "message": "ಡೈಸ್ನಿಂದ ತಯಾರಿಸಲ್ಪಟ್ಟಿದೆ.ನನ್ನನ್ನು ಸಂಪರ್ಕಿಸಿ: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "ಸಾಮಾನ್ಯ ವೈಶಿಷ್ಟ್ಯಗಳು"
+    },
+    "tradingFeatures": {
+        "message": "ವ್ಯಾಪಾರದ ವೈಶಿಷ್ಟ್ಯಗಳು"
+    },
+    "groupFeatures": {
+        "message": "ಗುಂಪು ವೈಶಿಷ್ಟ್ಯಗಳು"
+    },
+    "accountSecurityFeatures": {
+        "message": "ಖಾತೆ ಭದ್ರತಾ ವೈಶಿಷ್ಟ್ಯಗಳು"
+    },
+    "dealsNotifier": {
+        "message": "ಡೀಫಲ್ಸ್ ನೋಟಿಫೈಯರ್"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "ನಿಮ್ಮ ಬಟ್ಟೆಗಳನ್ನು ಉಳಿಸಲು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ!"
+    },
+    "Upgrade": {
+        "message": "ನವೀಕರಿಸಿ"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "ದಯವಿಟ್ಟು ನಮಗೆ ವಿಮರ್ಶೆಯನ್ನು ಬಿಡಲು ಪರಿಗಣಿಸಿ!"
+    },
+    "Review": {
+        "message": "ಸಮೀಕ್ಷೆ"
+    },
+    "CurrentlyWearing": {
+        "message": "ಪ್ರಸ್ತುತ ಧರಿಸುತ್ತಿದ್ದಾರೆ"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "ಐಟಂ ಅನ್ನು ಬಿಚ್ಚಿಡಲು ಅದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
+    },
+    "Background": {
+        "message": "ಹಿನ್ನೆಲೆ"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "ಕೆಳಗಿನ ಹಿನ್ನೆಲೆ ಆರಿಸಿ."
+    },
+    "MyOutfits": {
+        "message": "ನನ್ನ ಬಟ್ಟೆಗಳನ್ನು"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "ಸಜ್ಜು ಹೆಸರನ್ನು ಸಲ್ಲಿಸಲು ಎಂಟರ್ ಕೀಲಿಯನ್ನು ಒತ್ತಿ."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "ನಿಮ್ಮ ಉಡುಪನ್ನು ಹೆಸರಿಸಿ ಮತ್ತು ಉಳಿಸಿ."
+    },
+    "OutfitCost": {
+        "message": "ಸಜ್ಜು ವೆಚ್ಚ:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "ಸಜ್ಜು ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ."
+    },
+    "RandomGame": {
+        "message": "ಯಾದೃಚ್ om ಿಕ ಆಟ"
+    },
+    "MoreFilters": {
+        "message": "ಇನ್ನಷ್ಟು ಫಿಲ್ಟರ್‌ಗಳು"
+    },
+    "FastestServers": {
+        "message": "ವೇಗದ ಸರ್ವರ್‌ಗಳು"
+    },
+    "MaxPlayers": {
+        "message": "ಮ್ಯಾಕ್ಸ್ ಪ್ಲೇಯರ್ಸ್"
+    },
+    "TradeOffers": {
+        "message": "ವ್ಯಾಪಾರ ಕೊಡುಗೆಗಳು"
+    },
+    "Reputation": {
+        "message": "ಖ್ಯಾತಿ"
+    },
+    "ChangeProfileTheme": {
+        "message": "ಪ್ರೊಫೈಲ್ ಥೀಮ್ ಬದಲಾಯಿಸಿ"
+    },
+    "CloseProfileThemes": {
+        "message": "ಪ್ರೊಫೈಲ್ ಥೀಮ್‌ಗಳನ್ನು ಮುಚ್ಚಿ"
+    },
+    "RoProProfileThemes": {
+        "message": "ರೋಪ್ರೊ ಪ್ರೊಫೈಲ್ ಥೀಮ್‌ಗಳು"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "ಇತರ ರೋಪ್ರೊ ಬಳಕೆದಾರರು ನಿಮ್ಮ ಪ್ರೊಫೈಲ್‌ಗೆ ಭೇಟಿ ನೀಡಿದಾಗ ನಿಮ್ಮ ಥೀಮ್ ಅನ್ನು ನೋಡುತ್ತಾರೆ."
+    },
+    "AnimatedThemes": {
+        "message": "ಅನಿಮೇಟೆಡ್ ಥೀಮ್‌ಗಳು"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "ಅನಿಮೇಟೆಡ್ ಥೀಮ್‌ಗಳು ಚಂದಾದಾರರಿಗೆ ಮಾತ್ರ ಲಭ್ಯವಿದೆ."
+    },
+    "CustomThemes": {
+        "message": "ಕಸ್ಟಮ್ ಥೀಮ್‌ಗಳು"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "ಅನುಮೋದನೆಗಾಗಿ ಕಸ್ಟಮ್ ಥೀಮ್ ಅನ್ನು ಸಲ್ಲಿಸಲು, ರೋಪ್ರೊ ಅಪಶ್ರುತಿ ಸರ್ವರ್‌ಗೆ ಸೇರಿ:"
+    },
+    "SaveTheme": {
+        "message": "ಥೀಮ್ ಉಳಿಸಿ"
+    },
+    "RemoveTheme": {
+        "message": "ಥೀಮ್ ತೆಗೆದುಹಾಕಿ"
+    },
+    "CreateOffer": {
+        "message": "ಕೊಡುಗೆಯನ್ನು ರಚಿಸಿ"
+    },
+    "CloseOffer": {
+        "message": "ಕೊಡುಗೆಗಳನ್ನು ಮುಚ್ಚಿ"
+    },
+    "Comments": {
+        "message": "ಪ್ರತಿಕ್ರಿಯೆಗಳು"
+    },
+    "PostComment": {
+        "message": "ಪೋಸ್ಟ್ ಕಾಮೆಂಟ್"
+    },
+    "WriteAComment": {
+        "message": "ಅನಿಸಿಕೆಯನ್ನು ಬರೆಯಿರಿ!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "ಇನ್ನೂ ಯಾವುದೇ ಕಾಮೆಂಟ್‌ಗಳಿಲ್ಲ ... ಒಂದನ್ನು ಬರೆಯುವವರಲ್ಲಿ ಮೊದಲಿಗರಾಗಿರಿ!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "ಈ ಐಟಂಗೆ ಯಾವುದೇ ವ್ಯಾಪಾರ ಕೊಡುಗೆಗಳಿಲ್ಲ ... ಒಂದನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿದವರಲ್ಲಿ ಮೊದಲಿಗರಾಗಿರಿ!"
+    },
+    "SeeMore": {
+        "message": "ಇನ್ನೂ ಹೆಚ್ಚು ನೋಡು"
+    }
+}

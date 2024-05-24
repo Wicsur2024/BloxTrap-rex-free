@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - vylepšite svoj zážitok z Roblox"
+    },
+    "description": {
+        "message": "Perfektný nástroj pre hráčov a obchodníkov. RoPro pridáva Roblox desiatky užitočných funkcií."
+    },
+    "settings": {
+        "message": "nastavenie"
+    },
+    "manageSubscription": {
+        "message": "Spravovať predplatné"
+    },
+    "activateSubscription": {
+        "message": "Aktivovať predplatné"
+    },
+    "support": {
+        "message": "podpora"
+    },
+    "termsOfService": {
+        "message": "Podmienky služby"
+    },
+    "privacyPolicy": {
+        "message": "Zásady ochrany osobných údajov"
+    },
+    "help": {
+        "message": "Pomoc"
+    },
+    "subscription": {
+        "message": "Predplatné"
+    },
+    "disclaimer1": {
+        "message": "RoPro nie je prepojený s Roblox.com alebo Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Vyrobené kockami.Kontaktujte ma: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Všeobecné vlastnosti"
+    },
+    "tradingFeatures": {
+        "message": "Funkcie obchodovania"
+    },
+    "groupFeatures": {
+        "message": "Skupinové funkcie"
+    },
+    "accountSecurityFeatures": {
+        "message": "Funkcie zabezpečenia účtu"
+    },
+    "dealsNotifier": {
+        "message": "Oznámiteľ ponúk"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Inovujte si a uložte si oblečenie!"
+    },
+    "Upgrade": {
+        "message": "Inovovať"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Zvážte, prosím, nechať nám recenziu!"
+    },
+    "Review": {
+        "message": "Preskúmanie"
+    },
+    "CurrentlyWearing": {
+        "message": "Momentálne na sebe"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Kliknutím položku rozbalíte."
+    },
+    "Background": {
+        "message": "Pozadie"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Zvoľte pozadie nižšie."
+    },
+    "MyOutfits": {
+        "message": "Moje oblečenie"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Stlačením klávesu Enter zadajte názov oblečenia."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Pomenujte a uložte si outfit."
+    },
+    "OutfitCost": {
+        "message": "Náklady na oblečenie:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Úspešne vytvorený outfit."
+    },
+    "RandomGame": {
+        "message": "Náhodná hra"
+    },
+    "MoreFilters": {
+        "message": "Ďalšie filtre"
+    },
+    "FastestServers": {
+        "message": "Najrýchlejšie servery"
+    },
+    "MaxPlayers": {
+        "message": "Maximálny počet hráčov"
+    },
+    "TradeOffers": {
+        "message": "Obchodné ponuky"
+    },
+    "Reputation": {
+        "message": "Reputácia"
+    },
+    "ChangeProfileTheme": {
+        "message": "Zmeniť tému profilu"
+    },
+    "CloseProfileThemes": {
+        "message": "Zatvorte profilové témy"
+    },
+    "RoProProfileThemes": {
+        "message": "Profily profilu RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Ostatní používatelia RoPro uvidia vašu tému pri návšteve vášho profilu."
+    },
+    "AnimatedThemes": {
+        "message": "Animované témy"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animované témy sú k dispozícii iba pre predplatiteľov."
+    },
+    "CustomThemes": {
+        "message": "Vlastné motívy"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Ak chcete odoslať vlastnú tému na schválenie, pripojte sa k serveru nesúladu RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Uložiť tému"
+    },
+    "RemoveTheme": {
+        "message": "Odstrániť tému"
+    },
+    "CreateOffer": {
+        "message": "Vytvoriť ponuku"
+    },
+    "CloseOffer": {
+        "message": "Zatvorte ponuky"
+    },
+    "Comments": {
+        "message": "Pripomienky"
+    },
+    "PostComment": {
+        "message": "Uverejniť komentár"
+    },
+    "WriteAComment": {
+        "message": "Napísať komentár!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Zatiaľ žiadne komentáre ... Buďte prvý, kto napíše jeden!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Pre túto položku nie sú k dispozícii žiadne obchodné ponuky ... Jednu uverejnite ako prvú!"
+    },
+    "SeeMore": {
+        "message": "Pozrieť viac"
+    }
+}

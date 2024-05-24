@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - अपने Roblox अनुभव को बढ़ाएं"
+    },
+    "description": {
+        "message": "खिलाड़ियों और व्यापारियों के लिए सही उपकरण। RoPro Roblox में दर्जनों उपयोगी फीचर जोड़ता है।"
+    },
+    "settings": {
+        "message": "समायोजन"
+    },
+    "manageSubscription": {
+        "message": "सदस्यता प्रबंधित करें"
+    },
+    "activateSubscription": {
+        "message": "सदस्यता को सक्रिय करें"
+    },
+    "support": {
+        "message": "सहयोग"
+    },
+    "termsOfService": {
+        "message": "सेवा की शर्तें"
+    },
+    "privacyPolicy": {
+        "message": "गोपनीयता नीति"
+    },
+    "help": {
+        "message": "हाथ बटाना"
+    },
+    "subscription": {
+        "message": "अंशदान"
+    },
+    "disclaimer1": {
+        "message": "RoPro Roblox.com या Rolimons.com से संबद्ध नहीं है"
+    },
+    "disclaimer2": {
+        "message": "पासा द्वारा बनाया गया।मुझसे संपर्क करें: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "सामान्य सुविधाएँ"
+    },
+    "tradingFeatures": {
+        "message": "ट्रेडिंग सुविधाएँ"
+    },
+    "groupFeatures": {
+        "message": "समूह सुविधाएँ"
+    },
+    "accountSecurityFeatures": {
+        "message": "खाता सुरक्षा सुविधाएँ"
+    },
+    "dealsNotifier": {
+        "message": "नोटिफ़ायर करता है"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "अपने संगठनों को बचाने के लिए अपग्रेड करें!"
+    },
+    "Upgrade": {
+        "message": "अपग्रेड"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "कृपया हमें एक समीक्षा छोड़ने पर विचार करें!"
+    },
+    "Review": {
+        "message": "समीक्षा"
+    },
+    "CurrentlyWearing": {
+        "message": "वर्तमान में पहने हुए"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "किसी आइटम पर क्लिक करके उसे हटा दें।"
+    },
+    "Background": {
+        "message": "पृष्ठभूमि"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "नीचे एक पृष्ठभूमि चुनें।"
+    },
+    "MyOutfits": {
+        "message": "मेरा आउटफिट"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "आउटफिट नाम सबमिट करने के लिए एंटर की दबाएं।"
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "नाम और अपने संगठन को बचाने के लिए।"
+    },
+    "OutfitCost": {
+        "message": "आउटफिट लागत:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "सफलतापूर्वक बनाया गया संगठन।"
+    },
+    "RandomGame": {
+        "message": "यादृच्छिक खेल"
+    },
+    "MoreFilters": {
+        "message": "अधिक फ़िल्टर"
+    },
+    "FastestServers": {
+        "message": "सबसे तेज नौकर"
+    },
+    "MaxPlayers": {
+        "message": "अधिकतम खिलाड़ी"
+    },
+    "TradeOffers": {
+        "message": "व्यापार प्रस्ताव"
+    },
+    "Reputation": {
+        "message": "प्रतिष्ठा"
+    },
+    "ChangeProfileTheme": {
+        "message": "प्रोफ़ाइल थीम बदलें"
+    },
+    "CloseProfileThemes": {
+        "message": "प्रोफ़ाइल थीम बंद करें"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro प्रोफ़ाइल विषय-वस्तु"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "जब वे आपकी प्रोफ़ाइल पर जाते हैं, तो अन्य RoPro उपयोगकर्ता आपकी थीम देखेंगे।"
+    },
+    "AnimatedThemes": {
+        "message": "एनिमेटेड विषय-वस्तु"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "एनिमेटेड थीम केवल ग्राहकों के लिए उपलब्ध हैं।"
+    },
+    "CustomThemes": {
+        "message": "कस्टम थीम्स"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "अनुमोदन के लिए एक कस्टम विषय प्रस्तुत करने के लिए, RoPro कलह सर्वर में शामिल हों:"
+    },
+    "SaveTheme": {
+        "message": "थीम सहेजें"
+    },
+    "RemoveTheme": {
+        "message": "थीम निकालें"
+    },
+    "CreateOffer": {
+        "message": "ऑफ़र बनाएँ"
+    },
+    "CloseOffer": {
+        "message": "प्रस्ताव बंद करें"
+    },
+    "Comments": {
+        "message": "टिप्पणियाँ"
+    },
+    "PostComment": {
+        "message": "तेज़ी से टिप्पणी करना"
+    },
+    "WriteAComment": {
+        "message": "टिप्पणी लिखें!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "अभी तक कोई टिप्पणी नहीं, सबसे पहले लिखने की शुरूआत करें!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "इस आइटम के लिए कोई व्यापार ऑफ़र नहीं है ... पहले एक पोस्ट करें!"
+    },
+    "SeeMore": {
+        "message": "और देखें"
+    }
+}

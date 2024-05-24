@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Îmbunătățește-ți experiența Roblox"
+    },
+    "description": {
+        "message": "Instrumentul perfect pentru jucători și comercianți. RoPro adaugă zeci de caracteristici utile Roblox."
+    },
+    "settings": {
+        "message": "Setări"
+    },
+    "manageSubscription": {
+        "message": "Gestionați abonamentul"
+    },
+    "activateSubscription": {
+        "message": "Activați abonamentul"
+    },
+    "support": {
+        "message": "A sustine"
+    },
+    "termsOfService": {
+        "message": "Termenii serviciului"
+    },
+    "privacyPolicy": {
+        "message": "Politica de Confidențialitate"
+    },
+    "help": {
+        "message": "Ajutor"
+    },
+    "subscription": {
+        "message": "Abonament"
+    },
+    "disclaimer1": {
+        "message": "RoPro nu este afiliat cu Roblox.com sau Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Realizat de Dice.Contactați-mă: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Caracteristici generale"
+    },
+    "tradingFeatures": {
+        "message": "Caracteristici de tranzacționare"
+    },
+    "groupFeatures": {
+        "message": "Caracteristici de grup"
+    },
+    "accountSecurityFeatures": {
+        "message": "Caracteristici de securitate a contului"
+    },
+    "dealsNotifier": {
+        "message": "Notificator de oferte"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Faceți upgrade pentru a vă salva ținutele!"
+    },
+    "Upgrade": {
+        "message": "Actualizare"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Vă rugăm să ne gândiți să ne lăsați o recenzie!"
+    },
+    "Review": {
+        "message": "Revizuire"
+    },
+    "CurrentlyWearing": {
+        "message": "În prezent poartă"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Faceți clic pe un element pentru al dezechipa."
+    },
+    "Background": {
+        "message": "fundal"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Alegeți un fundal mai jos."
+    },
+    "MyOutfits": {
+        "message": "Tinutele mele"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Apăsați tasta Enter pentru a trimite numele ținutei."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Denumiți și salvați-vă ținuta."
+    },
+    "OutfitCost": {
+        "message": "Costul costumului:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Ținută creată cu succes."
+    },
+    "RandomGame": {
+        "message": "Joc aleatoriu"
+    },
+    "MoreFilters": {
+        "message": "Mai multe filtre"
+    },
+    "FastestServers": {
+        "message": "Cele mai rapide servere"
+    },
+    "MaxPlayers": {
+        "message": "Jucatori maximi"
+    },
+    "TradeOffers": {
+        "message": "Oferte comerciale"
+    },
+    "Reputation": {
+        "message": "Reputatie"
+    },
+    "ChangeProfileTheme": {
+        "message": "Schimbați tema profilului"
+    },
+    "CloseProfileThemes": {
+        "message": "Închideți Teme de profil"
+    },
+    "RoProProfileThemes": {
+        "message": "Teme de profil RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Alți utilizatori RoPro vă vor vedea tema când vă vor vizita profilul."
+    },
+    "AnimatedThemes": {
+        "message": "Teme animate"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Temele animate sunt disponibile numai pentru abonați."
+    },
+    "CustomThemes": {
+        "message": "Teme personalizate"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Pentru a trimite o temă personalizată spre aprobare, alăturați-vă serverului discord RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Salvați tema"
+    },
+    "RemoveTheme": {
+        "message": "Eliminați tema"
+    },
+    "CreateOffer": {
+        "message": "Creați ofertă"
+    },
+    "CloseOffer": {
+        "message": "Închideți ofertele"
+    },
+    "Comments": {
+        "message": "Comentarii"
+    },
+    "PostComment": {
+        "message": "posteaza comentariu"
+    },
+    "WriteAComment": {
+        "message": "Scrie un comentariu!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Niciun comentariu încă ... Fii primul care scrie unul!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Nu există oferte comerciale pentru acest articol ... Fii primul care postează una!"
+    },
+    "SeeMore": {
+        "message": "Vezi mai mult"
+    }
+}

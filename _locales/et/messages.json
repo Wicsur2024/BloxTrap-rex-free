@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - suurendage oma Roblox kogemust"
+    },
+    "description": {
+        "message": "Ideaalne tööriist mängijatele ja kauplejatele. RoPro lisab Roblox kümneid kasulikke funktsioone."
+    },
+    "settings": {
+        "message": "Seaded"
+    },
+    "manageSubscription": {
+        "message": "Halda tellimust"
+    },
+    "activateSubscription": {
+        "message": "Aktiveerige tellimus"
+    },
+    "support": {
+        "message": "Toetus"
+    },
+    "termsOfService": {
+        "message": "Kasutustingimused"
+    },
+    "privacyPolicy": {
+        "message": "Privaatsuspoliitika"
+    },
+    "help": {
+        "message": "Abi"
+    },
+    "subscription": {
+        "message": "Tellimus"
+    },
+    "disclaimer1": {
+        "message": "RoPro ei ole seotud Roblox.com ega Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Valmistatud täringutest.Võtke minuga ühendust: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Üldised omadused"
+    },
+    "tradingFeatures": {
+        "message": "Kauplemise funktsioonid"
+    },
+    "groupFeatures": {
+        "message": "Grupi funktsioonid"
+    },
+    "accountSecurityFeatures": {
+        "message": "Konto turvafunktsioonid"
+    },
+    "dealsNotifier": {
+        "message": "Pakkumiste teataja"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Täiendage oma riiete salvestamiseks!"
+    },
+    "Upgrade": {
+        "message": "Uuenda"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Kaaluge meile arvustuse jätmist!"
+    },
+    "Review": {
+        "message": "Ülevaade"
+    },
+    "CurrentlyWearing": {
+        "message": "Praegu seljas"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Selle eemaldamiseks klõpsake üksusel."
+    },
+    "Background": {
+        "message": "Taust"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Valige allpool taust."
+    },
+    "MyOutfits": {
+        "message": "Minu riided"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Rõiva nime esitamiseks vajutage sisestusklahvi."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Nimetage oma riietus ja salvestage see."
+    },
+    "OutfitCost": {
+        "message": "Riided maksumus:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Rõivas edukalt loodud."
+    },
+    "RandomGame": {
+        "message": "Juhuslik mäng"
+    },
+    "MoreFilters": {
+        "message": "Veel filtreid"
+    },
+    "FastestServers": {
+        "message": "Kiireimad serverid"
+    },
+    "MaxPlayers": {
+        "message": "Maksimaalne mängijate arv"
+    },
+    "TradeOffers": {
+        "message": "Kaubanduslikud pakkumised"
+    },
+    "Reputation": {
+        "message": "Maine"
+    },
+    "ChangeProfileTheme": {
+        "message": "Profiili teema muutmine"
+    },
+    "CloseProfileThemes": {
+        "message": "Sule profiiliteemad"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro profiiliteemad"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Teised RoPro kasutajad näevad teie teemat, kui nad teie profiili külastavad."
+    },
+    "AnimatedThemes": {
+        "message": "Animeeritud teemad"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animeeritud teemad on saadaval ainult tellijatele."
+    },
+    "CustomThemes": {
+        "message": "Kohandatud teemad"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Kohandatud teema kinnitamiseks esitamiseks liituge RoPro ebakõlaserveriga:"
+    },
+    "SaveTheme": {
+        "message": "Salvesta teema"
+    },
+    "RemoveTheme": {
+        "message": "Eemalda teema"
+    },
+    "CreateOffer": {
+        "message": "Loo pakkumine"
+    },
+    "CloseOffer": {
+        "message": "Sulgege pakkumised"
+    },
+    "Comments": {
+        "message": "Kommentaarid"
+    },
+    "PostComment": {
+        "message": "Postita kommentaar"
+    },
+    "WriteAComment": {
+        "message": "Kirjuta kommentaar!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Veel pole kommentaare ... Ole esimene, kes selle kirjutab!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Sellel üksusel pole pakkumisi ... Ole esimene, kes selle postitab!"
+    },
+    "SeeMore": {
+        "message": "Näe rohkem"
+    }
+}

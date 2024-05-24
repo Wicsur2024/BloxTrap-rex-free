@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Roblox エクスペリエンスを強化する"
+    },
+    "description": {
+        "message": "プレイヤーとトレーダーに最適なツール。 RoPro は Roblox に何十もの便利な機能を追加します。"
+    },
+    "settings": {
+        "message": "設定"
+    },
+    "manageSubscription": {
+        "message": "サブスクリプションの管理"
+    },
+    "activateSubscription": {
+        "message": "サブスクリプションをアクティブ化する"
+    },
+    "support": {
+        "message": "サポート"
+    },
+    "termsOfService": {
+        "message": "利用規約"
+    },
+    "privacyPolicy": {
+        "message": "個人情報保護方針"
+    },
+    "help": {
+        "message": "助けて"
+    },
+    "subscription": {
+        "message": "サブスクリプション"
+    },
+    "disclaimer1": {
+        "message": "RoProはRoblox.comまたはRolimons.comと提携していません"
+    },
+    "disclaimer2": {
+        "message": "サイコロ製。私に連絡してください：dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "一般的な機能"
+    },
+    "tradingFeatures": {
+        "message": "取引機能"
+    },
+    "groupFeatures": {
+        "message": "グループ機能"
+    },
+    "accountSecurityFeatures": {
+        "message": "アカウントのセキュリティ機能"
+    },
+    "dealsNotifier": {
+        "message": "お得な情報通知"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "あなたの服を保存するためにアップグレードしてください！"
+    },
+    "Upgrade": {
+        "message": "アップグレード"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "レビューを残してください！"
+    },
+    "Review": {
+        "message": "レビュー"
+    },
+    "CurrentlyWearing": {
+        "message": "現在着用中"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "アイテムをクリックして装備を解除します。"
+    },
+    "Background": {
+        "message": "バックグラウンド"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "以下の背景を選択してください。"
+    },
+    "MyOutfits": {
+        "message": "私の服"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "エンターキーを押して衣装名を送信します。"
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "服に名前を付けて保存します。"
+    },
+    "OutfitCost": {
+        "message": "衣装費："
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "衣装の作成に成功しました。"
+    },
+    "RandomGame": {
+        "message": "ランダムゲーム"
+    },
+    "MoreFilters": {
+        "message": "その他のフィルター"
+    },
+    "FastestServers": {
+        "message": "最速のサーバー"
+    },
+    "MaxPlayers": {
+        "message": "最大プレイヤー数"
+    },
+    "TradeOffers": {
+        "message": "トレードオファー"
+    },
+    "Reputation": {
+        "message": "評判"
+    },
+    "ChangeProfileTheme": {
+        "message": "プロファイルテーマの変更"
+    },
+    "CloseProfileThemes": {
+        "message": "プロファイルテーマを閉じる"
+    },
+    "RoProProfileThemes": {
+        "message": "RoProプロファイルテーマ"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "他のRoProユーザーは、あなたのプロファイルにアクセスしたときにあなたのテーマを見ることができます。"
+    },
+    "AnimatedThemes": {
+        "message": "アニメーションテーマ"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "アニメーションテーマは、サブスクライバーのみが利用できます。"
+    },
+    "CustomThemes": {
+        "message": "カスタムテーマ"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "承認のためにカスタムテーマを送信するには、RoPro不和サーバーに参加します。"
+    },
+    "SaveTheme": {
+        "message": "テーマを保存"
+    },
+    "RemoveTheme": {
+        "message": "テーマを削除"
+    },
+    "CreateOffer": {
+        "message": "オファーを作成する"
+    },
+    "CloseOffer": {
+        "message": "オファーを閉じる"
+    },
+    "Comments": {
+        "message": "コメント"
+    },
+    "PostComment": {
+        "message": "コメントを投稿"
+    },
+    "WriteAComment": {
+        "message": "コメントを書く！"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "コメントはまだありません...最初にコメントしてください！"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "このアイテムのトレードオファーはありません...最初に投稿してください！"
+    },
+    "SeeMore": {
+        "message": "続きを見る"
+    }
+}

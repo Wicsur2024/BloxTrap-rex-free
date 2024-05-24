@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - تجربه Roblox خود را تقویت کنید"
+    },
+    "description": {
+        "message": "ابزاری مناسب برای بازیکنان و معامله گران. RoPro ده ها ویژگی مفید به Roblox اضافه می کند."
+    },
+    "settings": {
+        "message": "تنظیمات"
+    },
+    "manageSubscription": {
+        "message": "اشتراک را مدیریت کنید"
+    },
+    "activateSubscription": {
+        "message": "اشتراک را فعال کنید"
+    },
+    "support": {
+        "message": "پشتیبانی"
+    },
+    "termsOfService": {
+        "message": "شرایط استفاده از خدمات"
+    },
+    "privacyPolicy": {
+        "message": "سیاست حفظ حریم خصوصی"
+    },
+    "help": {
+        "message": "کمک"
+    },
+    "subscription": {
+        "message": "اشتراک، ابونمان"
+    },
+    "disclaimer1": {
+        "message": "RoPro به Roblox.com یا Rolimons.com وابسته نیست"
+    },
+    "disclaimer2": {
+        "message": "ساخت دایس.با من تماس بگیرید: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "مشخصات کلی"
+    },
+    "tradingFeatures": {
+        "message": "ویژگی های تجارت"
+    },
+    "groupFeatures": {
+        "message": "ویژگی های گروه"
+    },
+    "accountSecurityFeatures": {
+        "message": "ویژگی های امنیتی حساب"
+    },
+    "dealsNotifier": {
+        "message": "معاملات آگاه کننده"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "برای صرفه جویی در لباس های خود ارتقا دهید!"
+    },
+    "Upgrade": {
+        "message": "ارتقا دهید"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "لطفا در نظر داشته باشید ما را بررسی کنید!"
+    },
+    "Review": {
+        "message": "مرور"
+    },
+    "CurrentlyWearing": {
+        "message": "در حال حاضر پوشیدن"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "برای پاک کردن مورد ، روی آن کلیک کنید."
+    },
+    "Background": {
+        "message": "زمینه"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "پس زمینه ای را در زیر انتخاب کنید."
+    },
+    "MyOutfits": {
+        "message": "لباسهای من"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "برای ارسال نام لباس ، کلید enter را فشار دهید."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "لباس خود را نامگذاری و ذخیره کنید."
+    },
+    "OutfitCost": {
+        "message": "هزینه لباس:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "لباس با موفقیت ایجاد شد."
+    },
+    "RandomGame": {
+        "message": "بازی تصادفی"
+    },
+    "MoreFilters": {
+        "message": "فیلترهای بیشتر"
+    },
+    "FastestServers": {
+        "message": "سریعترین سرورها"
+    },
+    "MaxPlayers": {
+        "message": "حداکثر بازیکنان"
+    },
+    "TradeOffers": {
+        "message": "پیشنهادات تجاری"
+    },
+    "Reputation": {
+        "message": "شهرت، آبرو"
+    },
+    "ChangeProfileTheme": {
+        "message": "تغییر طرح زمینه"
+    },
+    "CloseProfileThemes": {
+        "message": "بستن مضامین نمایه"
+    },
+    "RoProProfileThemes": {
+        "message": "مضامین پروفایل RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "سایر کاربران RoPro هنگام بازدید از نمایه شما ، طرح زمینه شما را مشاهده خواهند کرد."
+    },
+    "AnimatedThemes": {
+        "message": "مضامین متحرک"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "طرح زمینه متحرک فقط برای مشترکان در دسترس است."
+    },
+    "CustomThemes": {
+        "message": "مضامین سفارشی"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "برای ارائه تم سفارشی برای تأیید ، به سرور Discord RoPro بپیوندید:"
+    },
+    "SaveTheme": {
+        "message": "ذخیره موضوع"
+    },
+    "RemoveTheme": {
+        "message": "حذف طرح زمینه"
+    },
+    "CreateOffer": {
+        "message": "ایجاد پیشنهاد"
+    },
+    "CloseOffer": {
+        "message": "بستن پیشنهادات"
+    },
+    "Comments": {
+        "message": "نظرات"
+    },
+    "PostComment": {
+        "message": "ارسال نظر"
+    },
+    "WriteAComment": {
+        "message": "نظر بنویسید!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "هنوز نظری وجود ندارد ... اولین کسی باشید که یکی را می نویسد!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "هیچ پیشنهادی برای خرید این کالا وجود ندارد ... اولین کسی باشید که یکی را ارسال می کند!"
+    },
+    "SeeMore": {
+        "message": "بیشتر ببین"
+    }
+}

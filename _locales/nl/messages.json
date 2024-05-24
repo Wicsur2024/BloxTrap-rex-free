@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Verbeter uw Roblox ervaring"
+    },
+    "description": {
+        "message": "De perfecte tool voor spelers en handelaren. RoPro voegt tientallen handige functies toe aan Roblox."
+    },
+    "settings": {
+        "message": "Instellingen"
+    },
+    "manageSubscription": {
+        "message": "Beheer abonnement"
+    },
+    "activateSubscription": {
+        "message": "Activeer abonnement"
+    },
+    "support": {
+        "message": "Ondersteuning"
+    },
+    "termsOfService": {
+        "message": "Servicevoorwaarden"
+    },
+    "privacyPolicy": {
+        "message": "Privacybeleid"
+    },
+    "help": {
+        "message": "Helpen"
+    },
+    "subscription": {
+        "message": "Abonnement"
+    },
+    "disclaimer1": {
+        "message": "RoPro is niet aangesloten bij Roblox.com of Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Gemaakt door Dice.Neem contact met mij op: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Algemene kenmerken"
+    },
+    "tradingFeatures": {
+        "message": "Handelsfuncties"
+    },
+    "groupFeatures": {
+        "message": "Groepsfuncties"
+    },
+    "accountSecurityFeatures": {
+        "message": "Accountbeveiligingsfuncties"
+    },
+    "dealsNotifier": {
+        "message": "Melding van aanbiedingen"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Upgrade om je outfits te redden!"
+    },
+    "Upgrade": {
+        "message": "upgrade"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Overweeg alstublieft om een recensie achter te laten!"
+    },
+    "Review": {
+        "message": "Beoordeling"
+    },
+    "CurrentlyWearing": {
+        "message": "Momenteel aan het dragen"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Klik op een item om het uit te rusten."
+    },
+    "Background": {
+        "message": "Achtergrond"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Kies hieronder een achtergrond."
+    },
+    "MyOutfits": {
+        "message": "Mijn outfits"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Druk op de invoertoets om de outfitnaam in te voeren."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Geef je outfit een naam en sla hem op."
+    },
+    "OutfitCost": {
+        "message": "Outfit kosten:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Met succes gemaakte outfit."
+    },
+    "RandomGame": {
+        "message": "Willekeurig spel"
+    },
+    "MoreFilters": {
+        "message": "Meer filters"
+    },
+    "FastestServers": {
+        "message": "Snelste servers"
+    },
+    "MaxPlayers": {
+        "message": "Maximum aantal spelers"
+    },
+    "TradeOffers": {
+        "message": "Handelsaanbiedingen"
+    },
+    "Reputation": {
+        "message": "Reputatie"
+    },
+    "ChangeProfileTheme": {
+        "message": "Wijzig het profielthema"
+    },
+    "CloseProfileThemes": {
+        "message": "Profielthema's sluiten"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro-profielthema's"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Andere RoPro-gebruikers zullen uw thema zien wanneer ze uw profiel bezoeken."
+    },
+    "AnimatedThemes": {
+        "message": "Geanimeerde thema's"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Geanimeerde thema's zijn alleen beschikbaar voor abonnees."
+    },
+    "CustomThemes": {
+        "message": "Aangepaste thema's"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Om een aangepast thema ter goedkeuring in te dienen, wordt u lid van de RoPro Discord-server:"
+    },
+    "SaveTheme": {
+        "message": "Thema opslaan"
+    },
+    "RemoveTheme": {
+        "message": "Thema verwijderen"
+    },
+    "CreateOffer": {
+        "message": "Maak een aanbieding"
+    },
+    "CloseOffer": {
+        "message": "Aanbiedingen sluiten"
+    },
+    "Comments": {
+        "message": "Opmerkingen"
+    },
+    "PostComment": {
+        "message": "Plaats een reactie"
+    },
+    "WriteAComment": {
+        "message": "Schrijf een reactie!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Nog geen reacties ... Schrijf als eerste er een!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Geen ruilaanbiedingen voor dit artikel ... Plaats als eerste een aanbieding!"
+    },
+    "SeeMore": {
+        "message": "Bekijk meer"
+    }
+}

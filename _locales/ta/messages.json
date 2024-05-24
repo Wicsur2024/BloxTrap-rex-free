@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - உங்கள் Roblox அனுபவத்தை மேம்படுத்தவும்"
+    },
+    "description": {
+        "message": "வீரர்கள் மற்றும் வர்த்தகர்களுக்கான சரியான கருவி.ரோப்லாக்ஸில் டஜன் கணக்கான பயனுள்ள அம்சங்களை ரோப்ரோ சேர்க்கிறது."
+    },
+    "settings": {
+        "message": "அமைப்புகள்"
+    },
+    "manageSubscription": {
+        "message": "சந்தாவை நிர்வகிக்கவும்"
+    },
+    "activateSubscription": {
+        "message": "சந்தாவைச் செயல்படுத்தவும்"
+    },
+    "support": {
+        "message": "ஆதரவு"
+    },
+    "termsOfService": {
+        "message": "சேவை விதிமுறைகள்"
+    },
+    "privacyPolicy": {
+        "message": "தனியுரிமைக் கொள்கை"
+    },
+    "help": {
+        "message": "உதவி"
+    },
+    "subscription": {
+        "message": "சந்தா"
+    },
+    "disclaimer1": {
+        "message": "ரோப்ரோ ரோப்லாக்ஸ்.காம் அல்லது ரோலிமன்ஸ்.காம் உடன் இணைக்கப்படவில்லை"
+    },
+    "disclaimer2": {
+        "message": "டைஸ் தயாரித்தது.என்னை தொடர்பு கொள்ளவும்: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "பொது அம்சங்கள்"
+    },
+    "tradingFeatures": {
+        "message": "வர்த்தக அம்சங்கள்"
+    },
+    "groupFeatures": {
+        "message": "குழு அம்சங்கள்"
+    },
+    "accountSecurityFeatures": {
+        "message": "கணக்கு பாதுகாப்பு அம்சங்கள்"
+    },
+    "dealsNotifier": {
+        "message": "ஒப்பந்த அறிவிப்பாளர்"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "உங்கள் ஆடைகளை சேமிக்க மேம்படுத்தவும்!"
+    },
+    "Upgrade": {
+        "message": "மேம்படுத்தல்"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "எங்களுக்கு ஒரு மதிப்பாய்வை வழங்குவதைக் கவனியுங்கள்!"
+    },
+    "Review": {
+        "message": "விமர்சனம்"
+    },
+    "CurrentlyWearing": {
+        "message": "தற்போது அணிந்துள்ளார்"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "ஒரு பொருளைக் குறைக்க அதைக் கிளிக் செய்க."
+    },
+    "Background": {
+        "message": "பின்னணி"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "கீழே ஒரு பின்னணியைத் தேர்வுசெய்க."
+    },
+    "MyOutfits": {
+        "message": "எனது ஆடைகள்"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "அலங்கார பெயரை சமர்ப்பிக்க Enter விசையை அழுத்தவும்."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "உங்கள் அலங்காரத்தை பெயரிட்டு சேமிக்கவும்."
+    },
+    "OutfitCost": {
+        "message": "அலங்கார செலவு:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "வெற்றிகரமாக உருவாக்கப்பட்ட ஆடை."
+    },
+    "RandomGame": {
+        "message": "சீரற்ற விளையாட்டு"
+    },
+    "MoreFilters": {
+        "message": "மேலும் வடிப்பான்கள்"
+    },
+    "FastestServers": {
+        "message": "வேகமான சேவையகங்கள்"
+    },
+    "MaxPlayers": {
+        "message": "மேக்ஸ் பிளேயர்கள்"
+    },
+    "TradeOffers": {
+        "message": "வர்த்தக சலுகைகள்"
+    },
+    "Reputation": {
+        "message": "நற்பெயர்"
+    },
+    "ChangeProfileTheme": {
+        "message": "சுயவிவர தீம் மாற்றவும்"
+    },
+    "CloseProfileThemes": {
+        "message": "சுயவிவர தீம்களை மூடு"
+    },
+    "RoProProfileThemes": {
+        "message": "ரோப்ரோ சுயவிவர தீம்கள்"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "பிற ரோப்ரோ பயனர்கள் உங்கள் சுயவிவரத்தைப் பார்வையிடும்போது உங்கள் கருப்பொருளைப் பார்ப்பார்கள்."
+    },
+    "AnimatedThemes": {
+        "message": "அனிமேஷன் தீம்கள்"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "அனிமேஷன் கருப்பொருள்கள் சந்தாதாரர்களுக்கு மட்டுமே கிடைக்கின்றன."
+    },
+    "CustomThemes": {
+        "message": "தனிப்பயன் தீம்கள்"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "ஒப்புதலுக்காக தனிப்பயன் தீம் சமர்ப்பிக்க, ரோப்ரோ டிஸ்கார்ட் சேவையகத்தில் சேரவும்:"
+    },
+    "SaveTheme": {
+        "message": "தீம் சேமிக்கவும்"
+    },
+    "RemoveTheme": {
+        "message": "தீம் அகற்று"
+    },
+    "CreateOffer": {
+        "message": "சலுகையை உருவாக்கவும்"
+    },
+    "CloseOffer": {
+        "message": "சலுகைகளை மூடு"
+    },
+    "Comments": {
+        "message": "கருத்துரைகள்"
+    },
+    "PostComment": {
+        "message": "இடுகை கருத்து"
+    },
+    "WriteAComment": {
+        "message": "ஒரு கருத்து எழுதுங்கள்!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "இதுவரை கருத்துகள் எதுவும் இல்லை ... ஒன்றை முதலில் எழுதுங்கள்!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "இந்த உருப்படிக்கு வர்த்தக சலுகைகள் எதுவும் இல்லை ... ஒன்றை இடுகையிடுவதில் முதலில் இருங்கள்!"
+    },
+    "SeeMore": {
+        "message": "மேலும் பார்க்க"
+    }
+}

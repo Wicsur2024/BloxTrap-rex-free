@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Roblox Deneyiminizi Geliştirin"
+    },
+    "description": {
+        "message": "Oyuncular ve tüccarlar için mükemmel bir araç.RoPro, Roblox'a düzinelerce kullanışlı özellik ekler."
+    },
+    "settings": {
+        "message": "Ayarlar"
+    },
+    "manageSubscription": {
+        "message": "Aboneliği Yönet"
+    },
+    "activateSubscription": {
+        "message": "Aboneliği Etkinleştir"
+    },
+    "support": {
+        "message": "Destek"
+    },
+    "termsOfService": {
+        "message": "Kullanım Şartları"
+    },
+    "privacyPolicy": {
+        "message": "Gizlilik Politikası"
+    },
+    "help": {
+        "message": "Yardım Edin"
+    },
+    "subscription": {
+        "message": "Abonelik"
+    },
+    "disclaimer1": {
+        "message": "RoPro, Roblox.com veya Rolimons.com ile bağlantılı değildir"
+    },
+    "disclaimer2": {
+        "message": "Dice tarafından yapılmıştır.Bana ulaşın: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Genel Özellikler"
+    },
+    "tradingFeatures": {
+        "message": "Ticaret Özellikleri"
+    },
+    "groupFeatures": {
+        "message": "Grup Özellikleri"
+    },
+    "accountSecurityFeatures": {
+        "message": "Hesap Güvenliği Özellikleri"
+    },
+    "dealsNotifier": {
+        "message": "Fırsat Bildirici"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Kıyafetlerinizi kurtarmak için yükseltin!"
+    },
+    "Upgrade": {
+        "message": "Yükselt"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Lütfen bize bir yorum bırakmayı düşünün!"
+    },
+    "Review": {
+        "message": "gözden geçirmek"
+    },
+    "CurrentlyWearing": {
+        "message": "Şu anda Giyiyor"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Çıkarmak için bir öğeye tıklayın."
+    },
+    "Background": {
+        "message": "Arka fon"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Aşağıdan bir arka plan seçin."
+    },
+    "MyOutfits": {
+        "message": "Kıyafetlerim"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Kıyafet adını göndermek için enter tuşuna basın."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Kıyafetinizi adlandırın ve kaydedin."
+    },
+    "OutfitCost": {
+        "message": "Kıyafet Maliyeti:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Başarıyla kıyafet oluşturuldu."
+    },
+    "RandomGame": {
+        "message": "Rastgele Oyun"
+    },
+    "MoreFilters": {
+        "message": "Daha Fazla Filtre"
+    },
+    "FastestServers": {
+        "message": "En Hızlı Sunucular"
+    },
+    "MaxPlayers": {
+        "message": "Maksimum oyuncu"
+    },
+    "TradeOffers": {
+        "message": "Ticaret Teklifleri"
+    },
+    "Reputation": {
+        "message": "İtibar"
+    },
+    "ChangeProfileTheme": {
+        "message": "Profil Temasını Değiştir"
+    },
+    "CloseProfileThemes": {
+        "message": "Profil Temalarını Kapat"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro Profil Temaları"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Diğer RoPro kullanıcıları, profilinizi ziyaret ettiklerinde temanızı görecek."
+    },
+    "AnimatedThemes": {
+        "message": "Animasyonlu Temalar"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animasyonlu temalar yalnızca aboneler tarafından kullanılabilir."
+    },
+    "CustomThemes": {
+        "message": "Özel Temalar"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Onay için özel bir tema göndermek için RoPro discord sunucusuna katılın:"
+    },
+    "SaveTheme": {
+        "message": "Temayı Kaydet"
+    },
+    "RemoveTheme": {
+        "message": "Temayı Kaldır"
+    },
+    "CreateOffer": {
+        "message": "Teklif Oluşturun"
+    },
+    "CloseOffer": {
+        "message": "Teklifleri Kapat"
+    },
+    "Comments": {
+        "message": "Yorumlar"
+    },
+    "PostComment": {
+        "message": "Yorum Gönder"
+    },
+    "WriteAComment": {
+        "message": "Bir yorum Yaz!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Henüz hiç yorum yok, ilk yazan sen ol!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Bu öğe için takas teklifi yok ... İlk gönderen siz olun!"
+    },
+    "SeeMore": {
+        "message": "Daha fazla gör"
+    }
+}

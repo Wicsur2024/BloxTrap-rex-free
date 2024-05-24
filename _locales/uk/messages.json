@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - покращуйте свій досвід роботи з Roblox"
+    },
+    "description": {
+        "message": "Ідеальний інструмент для гравців та трейдерів. RoPro додає десятки корисних функцій до Roblox."
+    },
+    "settings": {
+        "message": "Налаштування"
+    },
+    "manageSubscription": {
+        "message": "Керувати підпискою"
+    },
+    "activateSubscription": {
+        "message": "Активуйте передплату"
+    },
+    "support": {
+        "message": "Підтримка"
+    },
+    "termsOfService": {
+        "message": "Умови обслуговування"
+    },
+    "privacyPolicy": {
+        "message": "Політика конфіденційності"
+    },
+    "help": {
+        "message": "Допомога"
+    },
+    "subscription": {
+        "message": "Передплата"
+    },
+    "disclaimer1": {
+        "message": "RoPro не пов'язаний з Roblox.com або Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Зроблено Dice.Зв'яжіться зі мною: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Загальні ознаки"
+    },
+    "tradingFeatures": {
+        "message": "Торгові особливості"
+    },
+    "groupFeatures": {
+        "message": "Особливості групи"
+    },
+    "accountSecurityFeatures": {
+        "message": "Особливості захисту облікового запису"
+    },
+    "dealsNotifier": {
+        "message": "Сповіщувач пропозицій"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Оновіть, щоб зберегти свої вбрання!"
+    },
+    "Upgrade": {
+        "message": "Оновлення"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Будь ласка, залиште нам відгук!"
+    },
+    "Review": {
+        "message": "Огляд"
+    },
+    "CurrentlyWearing": {
+        "message": "В даний час носіння"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Клацніть елемент, щоб зняти його."
+    },
+    "Background": {
+        "message": "Передумови"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Виберіть фон нижче."
+    },
+    "MyOutfits": {
+        "message": "Мої вбрання"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Натисніть клавішу Enter, щоб надіслати назву одягу."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Назвіть і збережіть своє вбрання."
+    },
+    "OutfitCost": {
+        "message": "Вартість спорядження:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Успішно створений наряд."
+    },
+    "RandomGame": {
+        "message": "Випадкова гра"
+    },
+    "MoreFilters": {
+        "message": "Більше фільтрів"
+    },
+    "FastestServers": {
+        "message": "Найшвидші сервери"
+    },
+    "MaxPlayers": {
+        "message": "Макс. Гравців"
+    },
+    "TradeOffers": {
+        "message": "Торгові пропозиції"
+    },
+    "Reputation": {
+        "message": "Репутація"
+    },
+    "ChangeProfileTheme": {
+        "message": "Змінити тему профілю"
+    },
+    "CloseProfileThemes": {
+        "message": "Закрити профільні теми"
+    },
+    "RoProProfileThemes": {
+        "message": "Теми профілю RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Інші користувачі RoPro побачать вашу тему, коли відвідають ваш профіль."
+    },
+    "AnimatedThemes": {
+        "message": "Анімовані теми"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Анімовані теми доступні лише для передплатників."
+    },
+    "CustomThemes": {
+        "message": "Спеціальні теми"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Щоб подати власну тему на затвердження, приєднайтеся до сервера розбіжностей RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Зберегти тему"
+    },
+    "RemoveTheme": {
+        "message": "Видалити тему"
+    },
+    "CreateOffer": {
+        "message": "Створити пропозицію"
+    },
+    "CloseOffer": {
+        "message": "Закрити пропозиції"
+    },
+    "Comments": {
+        "message": "Коментарі"
+    },
+    "PostComment": {
+        "message": "Опублікувати коментар"
+    },
+    "WriteAComment": {
+        "message": "Напишіть коментар!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Поки коментарів поки немає ... Напишіть першим!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Немає торгових пропозицій для цього товару ... Опублікуйте першим!"
+    },
+    "SeeMore": {
+        "message": "Побачити більше"
+    }
+}

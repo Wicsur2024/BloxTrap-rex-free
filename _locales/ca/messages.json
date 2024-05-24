@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro: milloreu la vostra experiència amb Roblox"
+    },
+    "description": {
+        "message": "L’eina perfecta per a jugadors i comerciants.RoPro afegeix dotzenes de funcions útils a Roblox."
+    },
+    "settings": {
+        "message": "Configuració"
+    },
+    "manageSubscription": {
+        "message": "Gestiona la subscripció"
+    },
+    "activateSubscription": {
+        "message": "Activa la subscripció"
+    },
+    "support": {
+        "message": "Suport"
+    },
+    "termsOfService": {
+        "message": "Termes del servei"
+    },
+    "privacyPolicy": {
+        "message": "Política de privacitat"
+    },
+    "help": {
+        "message": "Ajuda"
+    },
+    "subscription": {
+        "message": "Subscripció"
+    },
+    "disclaimer1": {
+        "message": "RoPro no està afiliat a Roblox.com ni a Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Fet per Dice.Poseu-vos en contacte amb mi: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Característiques generals"
+    },
+    "tradingFeatures": {
+        "message": "Funcions comercials"
+    },
+    "groupFeatures": {
+        "message": "Funcions del grup"
+    },
+    "accountSecurityFeatures": {
+        "message": "Funcions de seguretat del compte"
+    },
+    "dealsNotifier": {
+        "message": "Notificador d'ofertes"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Actualitzeu per guardar els vostres vestits."
+    },
+    "Upgrade": {
+        "message": "Actualització"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Considereu deixar-nos una ressenya."
+    },
+    "Review": {
+        "message": "Revisió"
+    },
+    "CurrentlyWearing": {
+        "message": "Actualment usant"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Feu clic en un element per desquipar-lo."
+    },
+    "Background": {
+        "message": "Antecedents"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Trieu un fons a continuació."
+    },
+    "MyOutfits": {
+        "message": "Els meus vestits"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Premeu la tecla d'inici per enviar el nom del vestit."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Posa un nom i guarda el teu vestit."
+    },
+    "OutfitCost": {
+        "message": "Cost del vestit:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Vestit creat amb èxit."
+    },
+    "RandomGame": {
+        "message": "Joc aleatori"
+    },
+    "MoreFilters": {
+        "message": "Més filtres"
+    },
+    "FastestServers": {
+        "message": "Servidors més ràpids"
+    },
+    "MaxPlayers": {
+        "message": "Jugadors màxims"
+    },
+    "TradeOffers": {
+        "message": "Ofertes comercials"
+    },
+    "Reputation": {
+        "message": "Reputació"
+    },
+    "ChangeProfileTheme": {
+        "message": "Canvia el tema del perfil"
+    },
+    "CloseProfileThemes": {
+        "message": "Tanca els temes del perfil"
+    },
+    "RoProProfileThemes": {
+        "message": "Temes de perfils RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Altres usuaris de RoPro veuran el vostre tema quan visiten el vostre perfil."
+    },
+    "AnimatedThemes": {
+        "message": "Temes animats"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Els temes animats només estan disponibles per als subscriptors."
+    },
+    "CustomThemes": {
+        "message": "Temes personalitzats"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Per enviar un tema personalitzat a l'aprovació, uniu-vos al servidor de discòrdies RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Desa el tema"
+    },
+    "RemoveTheme": {
+        "message": "Elimina el tema"
+    },
+    "CreateOffer": {
+        "message": "Crea oferta"
+    },
+    "CloseOffer": {
+        "message": "Tanca les ofertes"
+    },
+    "Comments": {
+        "message": "Comentaris"
+    },
+    "PostComment": {
+        "message": "Escriu un comentari"
+    },
+    "WriteAComment": {
+        "message": "Escriu un comentari!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Encara no hi ha cap comentari ... Sigues el primer a escriure'n un!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "No hi ha ofertes comercials per a aquest article ... Sigues el primer a publicar-ne una!"
+    },
+    "SeeMore": {
+        "message": "Veure més"
+    }
+}

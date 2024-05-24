@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Melhore sua experiência com o Roblox"
+    },
+    "description": {
+        "message": "A ferramenta perfeita para jogadores e comerciantes. RoPro acrescenta dezenas de características úteis à Roblox."
+    },
+    "settings": {
+        "message": "Configurações"
+    },
+    "manageSubscription": {
+        "message": "Gerenciar Assinatura"
+    },
+    "activateSubscription": {
+        "message": "Ativar Assinatura"
+    },
+    "support": {
+        "message": "Apoio"
+    },
+    "termsOfService": {
+        "message": "Termos de Serviço"
+    },
+    "privacyPolicy": {
+        "message": "Política de Privacidade"
+    },
+    "help": {
+        "message": "Ajuda"
+    },
+    "subscription": {
+        "message": "Assinatura"
+    },
+    "disclaimer1": {
+        "message": "RoPro não é afiliada à Roblox.com ou Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Feito por Dice. Contate-me: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Funções Gerais"
+    },
+    "tradingFeatures": {
+        "message": "Funções de Negociação"
+    },
+    "groupFeatures": {
+        "message": "Funções do Grupo"
+    },
+    "accountSecurityFeatures": {
+        "message": "Funções de Segurança da Conta"
+    },
+    "dealsNotifier": {
+        "message": "Notificador de Deals"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Atualize para salvar seus trajes!"
+    },
+    "Upgrade": {
+        "message": "Atualização"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Por favor, considere deixar-nos uma reveja!"
+    },
+    "Review": {
+        "message": "Reveja"
+    },
+    "CurrentlyWearing": {
+        "message": "Vestindo Atualmente"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Clique em um item para desequipá-lo."
+    },
+    "Background": {
+        "message": "Fundo"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Escolha um fundo abaixo."
+    },
+    "MyOutfits": {
+        "message": "Minhas Roupas"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Pressione a tecla Enter para enviar o nome da roupa."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Dê um nome e salve sua roupa."
+    },
+    "OutfitCost": {
+        "message": "Custo Outfit:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Outfit criada com sucesso."
+    },
+    "RandomGame": {
+        "message": "Jogo Aleatório"
+    },
+    "MoreFilters": {
+        "message": "Mais Filtros"
+    },
+    "FastestServers": {
+        "message": "Servidores Rápidos"
+    },
+    "MaxPlayers": {
+        "message": "Max Jogadores"
+    },
+    "TradeOffers": {
+        "message": "Ofertas Trade"
+    },
+    "Reputation": {
+        "message": "Reputação"
+    },
+    "ChangeProfileTheme": {
+        "message": "Tema Mudança de Perfil"
+    },
+    "CloseProfileThemes": {
+        "message": "Fechar Temas de Perfil"
+    },
+    "RoProProfileThemes": {
+        "message": "Temas do Perfil RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Outros usuários RoPro verão seu tema quando visitarem seu perfil."
+    },
+    "AnimatedThemes": {
+        "message": "Temas Animados"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Os temas animados estão disponíveis apenas para assinantes."
+    },
+    "CustomThemes": {
+        "message": "Temas Personalizados"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Para submeter um tema personalizado para aprovação, junte-se ao servidor de discórdia RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Salvar Tema"
+    },
+    "RemoveTheme": {
+        "message": "Remover Tema"
+    },
+    "CreateOffer": {
+        "message": "Criar Oferta"
+    },
+    "CloseOffer": {
+        "message": "Fecha Oferta"
+    },
+    "Comments": {
+        "message": "Comentários"
+    },
+    "PostComment": {
+        "message": "Postar Comentário"
+    },
+    "WriteAComment": {
+        "message": "Escreva um comentário!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Nenhum comentário ainda, seja o primeiro a escrever um!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Nenhuma oferta trade para este item ... Seja o primeiro a postar uma!"
+    },
+    "SeeMore": {
+        "message": "Ver Mais"
+    }
+}

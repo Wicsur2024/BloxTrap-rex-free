@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - మీ Roblox అనుభవాన్ని మెరుగుపరచండి"
+    },
+    "description": {
+        "message": "ఆటగాళ్ళు & వ్యాపారులకు సరైన సాధనం.రోప్రోక్స్‌కు రోప్రో డజన్ల కొద్దీ ఉపయోగకరమైన లక్షణాలను జోడిస్తుంది."
+    },
+    "settings": {
+        "message": "సెట్టింగులు"
+    },
+    "manageSubscription": {
+        "message": "సభ్యత్వాన్ని నిర్వహించండి"
+    },
+    "activateSubscription": {
+        "message": "సభ్యత్వాన్ని సక్రియం చేయండి"
+    },
+    "support": {
+        "message": "మద్దతు"
+    },
+    "termsOfService": {
+        "message": "సేవా నిబంధనలు"
+    },
+    "privacyPolicy": {
+        "message": "గోప్యతా విధానం"
+    },
+    "help": {
+        "message": "సహాయం"
+    },
+    "subscription": {
+        "message": "చందా"
+    },
+    "disclaimer1": {
+        "message": "రోప్రో రాబ్లాక్స్.కామ్ లేదా రోలిమోన్స్.కామ్ తో అనుబంధించబడలేదు"
+    },
+    "disclaimer2": {
+        "message": "పాచికలచే తయారు చేయబడింది.నన్ను సంప్రదించండి: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "సాధారణ లక్షణాలు"
+    },
+    "tradingFeatures": {
+        "message": "ట్రేడింగ్ ఫీచర్లు"
+    },
+    "groupFeatures": {
+        "message": "సమూహ లక్షణాలు"
+    },
+    "accountSecurityFeatures": {
+        "message": "ఖాతా భద్రతా లక్షణాలు"
+    },
+    "dealsNotifier": {
+        "message": "డీల్స్ నోటిఫైయర్"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "మీ దుస్తులను సేవ్ చేయడానికి అప్‌గ్రేడ్ చేయండి!"
+    },
+    "Upgrade": {
+        "message": "అప్‌గ్రేడ్ చేయండి"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "దయచేసి మాకు సమీక్ష ఇవ్వడాన్ని పరిశీలించండి!"
+    },
+    "Review": {
+        "message": "సమీక్ష"
+    },
+    "CurrentlyWearing": {
+        "message": "ప్రస్తుతం ధరిస్తున్నారు"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "అంశాన్ని తీసివేయడానికి దాన్ని క్లిక్ చేయండి."
+    },
+    "Background": {
+        "message": "నేపథ్య"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "దిగువ నేపథ్యాన్ని ఎంచుకోండి."
+    },
+    "MyOutfits": {
+        "message": "నా దుస్తులను"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "దుస్తులను పేరు సమర్పించడానికి ఎంటర్ కీని నొక్కండి."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "మీ దుస్తులకు పేరు పెట్టండి మరియు సేవ్ చేయండి."
+    },
+    "OutfitCost": {
+        "message": "దుస్తుల్లో ఖర్చు:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "విజయవంతంగా సృష్టించిన దుస్తులను."
+    },
+    "RandomGame": {
+        "message": "రాండమ్ గేమ్"
+    },
+    "MoreFilters": {
+        "message": "మరిన్ని ఫిల్టర్లు"
+    },
+    "FastestServers": {
+        "message": "వేగవంతమైన సర్వర్లు"
+    },
+    "MaxPlayers": {
+        "message": "మాక్స్ ప్లేయర్స్"
+    },
+    "TradeOffers": {
+        "message": "వాణిజ్య ఆఫర్లు"
+    },
+    "Reputation": {
+        "message": "పలుకుబడి"
+    },
+    "ChangeProfileTheme": {
+        "message": "ప్రొఫైల్ థీమ్ మార్చండి"
+    },
+    "CloseProfileThemes": {
+        "message": "ప్రొఫైల్ థీమ్స్ మూసివేయండి"
+    },
+    "RoProProfileThemes": {
+        "message": "రోప్రో ప్రొఫైల్ థీమ్స్"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "ఇతర రోప్రో వినియోగదారులు మీ ప్రొఫైల్‌ను సందర్శించినప్పుడు మీ థీమ్‌ను చూస్తారు."
+    },
+    "AnimatedThemes": {
+        "message": "యానిమేటెడ్ థీమ్స్"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "యానిమేటెడ్ థీమ్‌లు చందాదారులకు మాత్రమే అందుబాటులో ఉన్నాయి."
+    },
+    "CustomThemes": {
+        "message": "అనుకూల థీమ్స్"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "ఆమోదం కోసం అనుకూల థీమ్‌ను సమర్పించడానికి, రోప్రో డిస్కార్డ్ సర్వర్‌లో చేరండి:"
+    },
+    "SaveTheme": {
+        "message": "థీమ్‌ను సేవ్ చేయండి"
+    },
+    "RemoveTheme": {
+        "message": "థీమ్‌ను తొలగించండి"
+    },
+    "CreateOffer": {
+        "message": "ఆఫర్ సృష్టించండి"
+    },
+    "CloseOffer": {
+        "message": "ఆఫర్‌లను మూసివేయండి"
+    },
+    "Comments": {
+        "message": "వ్యాఖ్యలు"
+    },
+    "PostComment": {
+        "message": "వ్యాఖ్యను పోస్ట్ చేయండి"
+    },
+    "WriteAComment": {
+        "message": "వ్యాఖ్య రాయండి!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "ఇంకా వ్యాఖ్యలు లేవు ... ఒకటి రాసిన మొదటి వ్యక్తి అవ్వండి!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "ఈ అంశం కోసం వాణిజ్య ఆఫర్లు లేవు ... ఒకటి పోస్ట్ చేసిన మొదటి వ్యక్తి అవ్వండి!"
+    },
+    "SeeMore": {
+        "message": "ఇంకా చూడు"
+    }
+}

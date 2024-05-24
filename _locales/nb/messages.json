@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Forbedre Roblox opplevelsen"
+    },
+    "description": {
+        "message": "Det perfekte verktøyet for spillere og tradere. RoPro legger til dusinvis av nyttige funksjoner til Roblox."
+    },
+    "settings": {
+        "message": "Innstillinger"
+    },
+    "manageSubscription": {
+        "message": "Administrer abonnement"
+    },
+    "activateSubscription": {
+        "message": "Aktiver abonnement"
+    },
+    "support": {
+        "message": "Brukerstøtte"
+    },
+    "termsOfService": {
+        "message": "Vilkår for bruk"
+    },
+    "privacyPolicy": {
+        "message": "Personvernregler"
+    },
+    "help": {
+        "message": "Hjelp"
+    },
+    "subscription": {
+        "message": "Abonnement"
+    },
+    "disclaimer1": {
+        "message": "RoPro er ikke tilknyttet Roblox.com eller Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Laget av Dice.Kontakt meg: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Generelle funksjoner"
+    },
+    "tradingFeatures": {
+        "message": "Handelsfunksjoner"
+    },
+    "groupFeatures": {
+        "message": "Gruppefunksjoner"
+    },
+    "accountSecurityFeatures": {
+        "message": "Kontosikkerhetsfunksjoner"
+    },
+    "dealsNotifier": {
+        "message": "Tilbudsvarsler"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Oppgrader for å lagre antrekkene dine!"
+    },
+    "Upgrade": {
+        "message": "Oppgradering"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Vennligst vurder å gi oss en anmeldelse!"
+    },
+    "Review": {
+        "message": "Anmeldelse"
+    },
+    "CurrentlyWearing": {
+        "message": "For tiden iført"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Klikk på et element for å løsne det."
+    },
+    "Background": {
+        "message": "Bakgrunn"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Velg en bakgrunn nedenfor."
+    },
+    "MyOutfits": {
+        "message": "Mine antrekk"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Trykk på enter-tasten for å sende inn antrekkets navn."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Navngi og lagre antrekket ditt."
+    },
+    "OutfitCost": {
+        "message": "Antrekk Kostnad:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Vellykket opprettet antrekk."
+    },
+    "RandomGame": {
+        "message": "Tilfeldig spill"
+    },
+    "MoreFilters": {
+        "message": "Flere filtre"
+    },
+    "FastestServers": {
+        "message": "Raskeste servere"
+    },
+    "MaxPlayers": {
+        "message": "Maks spillere"
+    },
+    "TradeOffers": {
+        "message": "Handelstilbud"
+    },
+    "Reputation": {
+        "message": "Rykte"
+    },
+    "ChangeProfileTheme": {
+        "message": "Endre profiltema"
+    },
+    "CloseProfileThemes": {
+        "message": "Lukk profiltemaer"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro-profiltemaer"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Andre RoPro-brukere vil se temaet ditt når de besøker profilen din."
+    },
+    "AnimatedThemes": {
+        "message": "Animerte temaer"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animerte temaer er bare tilgjengelige for abonnenter."
+    },
+    "CustomThemes": {
+        "message": "Egendefinerte temaer"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "For å sende inn et tilpasset tema for godkjenning, bli med i RoPro-diskordserveren:"
+    },
+    "SaveTheme": {
+        "message": "Lagre tema"
+    },
+    "RemoveTheme": {
+        "message": "Fjern tema"
+    },
+    "CreateOffer": {
+        "message": "Lag tilbud"
+    },
+    "CloseOffer": {
+        "message": "Lukk tilbud"
+    },
+    "Comments": {
+        "message": "Kommentarer"
+    },
+    "PostComment": {
+        "message": "post Kommentar"
+    },
+    "WriteAComment": {
+        "message": "Skriv en kommentar!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Ingen kommentarer ennå ... Bli den første til å skrive en!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Ingen handelstilbud for denne varen ... Bli den første til å legge ut en!"
+    },
+    "SeeMore": {
+        "message": "Se mer"
+    }
+}

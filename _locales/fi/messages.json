@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Paranna Roblox kokemustasi"
+    },
+    "description": {
+        "message": "Täydellinen työkalu pelaajille ja kauppiaille. RoPro lisää Roblox kymmeniä hyödyllisiä ominaisuuksia."
+    },
+    "settings": {
+        "message": "Asetukset"
+    },
+    "manageSubscription": {
+        "message": "Hallitse tilausta"
+    },
+    "activateSubscription": {
+        "message": "Aktivoi tilaus"
+    },
+    "support": {
+        "message": "Tuki"
+    },
+    "termsOfService": {
+        "message": "Käyttöehdot"
+    },
+    "privacyPolicy": {
+        "message": "Tietosuojakäytäntö"
+    },
+    "help": {
+        "message": "Auta"
+    },
+    "subscription": {
+        "message": "Tilaus"
+    },
+    "disclaimer1": {
+        "message": "RoPro ei ole sidoksissa Roblox.com- tai Rolimons.com-sivustoihin"
+    },
+    "disclaimer2": {
+        "message": "Valmistanut Dice.Ota minuun yhteyttä: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Yleiset ominaisuudet"
+    },
+    "tradingFeatures": {
+        "message": "Kaupankäynnin ominaisuudet"
+    },
+    "groupFeatures": {
+        "message": "Ryhmän ominaisuudet"
+    },
+    "accountSecurityFeatures": {
+        "message": "Tilin suojausominaisuudet"
+    },
+    "dealsNotifier": {
+        "message": "Tarjousten ilmoittaja"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Päivitä tallentaaksesi asusi!"
+    },
+    "Upgrade": {
+        "message": "Päivitä"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Harkitse jättää meille arvostelu!"
+    },
+    "Review": {
+        "message": "Arvostelu"
+    },
+    "CurrentlyWearing": {
+        "message": "Tällä hetkellä yllään"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Napsauta kohdetta purkaa se."
+    },
+    "Background": {
+        "message": "Tausta"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Valitse alla oleva tausta."
+    },
+    "MyOutfits": {
+        "message": "Omat puvut"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Lähetä enter-painike painamalla Enter-näppäintä."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Nimeä ja tallenna asusi."
+    },
+    "OutfitCost": {
+        "message": "Asun hinta:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Asu luotiin onnistuneesti."
+    },
+    "RandomGame": {
+        "message": "Satunnainen peli"
+    },
+    "MoreFilters": {
+        "message": "Lisää suodattimia"
+    },
+    "FastestServers": {
+        "message": "Nopeimmat palvelimet"
+    },
+    "MaxPlayers": {
+        "message": "Maksimimäärä pelaajia"
+    },
+    "TradeOffers": {
+        "message": "Kauppatarjoukset"
+    },
+    "Reputation": {
+        "message": "Maine"
+    },
+    "ChangeProfileTheme": {
+        "message": "Vaihda profiilin teemaa"
+    },
+    "CloseProfileThemes": {
+        "message": "Sulje profiiliteemat"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro-profiiliteemat"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Muut RoPro-käyttäjät näkevät teeman, kun he vierailevat profiilissasi."
+    },
+    "AnimatedThemes": {
+        "message": "Animoidut teemat"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animoidut teemat ovat saatavilla vain tilaajille."
+    },
+    "CustomThemes": {
+        "message": "Mukautetut teemat"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Jos haluat lähettää mukautetun teeman hyväksyttäväksi, liity RoPro-ristiriitapalvelimeen:"
+    },
+    "SaveTheme": {
+        "message": "Tallenna teema"
+    },
+    "RemoveTheme": {
+        "message": "Poista teema"
+    },
+    "CreateOffer": {
+        "message": "Luo tarjous"
+    },
+    "CloseOffer": {
+        "message": "Sulje tarjoukset"
+    },
+    "Comments": {
+        "message": "Kommentit"
+    },
+    "PostComment": {
+        "message": "Lähetä Kommentti"
+    },
+    "WriteAComment": {
+        "message": "Kirjoita kommentti!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Ei vielä kommentteja ... Kirjoita ensimmäinen!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Tälle tuotteelle ei ole kauppatarjouksia ... Ole ensimmäinen postittaja!"
+    },
+    "SeeMore": {
+        "message": "Katso lisää"
+    }
+}

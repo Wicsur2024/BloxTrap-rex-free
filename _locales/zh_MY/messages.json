@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - 增强您的 Roblox 体验"
+    },
+    "description": {
+        "message": "玩家和交易者的理想工具。RoPro 为 Roblox 添加了许多有用的功能。"
+    },
+    "settings": {
+        "message": "设定值"
+    },
+    "manageSubscription": {
+        "message": "管理订阅"
+    },
+    "activateSubscription": {
+        "message": "激活订阅"
+    },
+    "support": {
+        "message": "支持"
+    },
+    "termsOfService": {
+        "message": "服务条款"
+    },
+    "privacyPolicy": {
+        "message": "隐私政策"
+    },
+    "help": {
+        "message": "帮助"
+    },
+    "subscription": {
+        "message": "订阅"
+    },
+    "disclaimer1": {
+        "message": "RoPro不隶属于Roblox.com或Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "骰子制作。与我联系：dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "一般特征"
+    },
+    "tradingFeatures": {
+        "message": "交易功能"
+    },
+    "groupFeatures": {
+        "message": "集团特色"
+    },
+    "accountSecurityFeatures": {
+        "message": "帐户安全功能"
+    },
+    "dealsNotifier": {
+        "message": "交易通知者"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "升级以节省您的衣服！"
+    },
+    "Upgrade": {
+        "message": "升级"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "请考虑给我们留下评论！"
+    },
+    "Review": {
+        "message": "审查"
+    },
+    "CurrentlyWearing": {
+        "message": "目前穿着"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "单击一个项目以取消装备。"
+    },
+    "Background": {
+        "message": "背景"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "在下面选择一个背景。"
+    },
+    "MyOutfits": {
+        "message": "我的服装"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "按输入键提交服装名称。"
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "命名并保存您的衣服。"
+    },
+    "OutfitCost": {
+        "message": "装备费用："
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "成功创建服装。"
+    },
+    "RandomGame": {
+        "message": "随机游戏"
+    },
+    "MoreFilters": {
+        "message": "更多过滤器"
+    },
+    "FastestServers": {
+        "message": "最快的服务器"
+    },
+    "MaxPlayers": {
+        "message": "最大玩家"
+    },
+    "TradeOffers": {
+        "message": "贸易报价"
+    },
+    "Reputation": {
+        "message": "名声"
+    },
+    "ChangeProfileTheme": {
+        "message": "变更个人资料主题"
+    },
+    "CloseProfileThemes": {
+        "message": "关闭个人资料主题"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro配置文件主题"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "其他RoPro用户在访问您的个人资料时会看到您的主题。"
+    },
+    "AnimatedThemes": {
+        "message": "动画主题"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "动画主题仅适用于订户。"
+    },
+    "CustomThemes": {
+        "message": "自订主题"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "要提交自定义主题以供批准，请加入RoPro Discord服务器："
+    },
+    "SaveTheme": {
+        "message": "保存主题"
+    },
+    "RemoveTheme": {
+        "message": "删除主题"
+    },
+    "CreateOffer": {
+        "message": "创建报价"
+    },
+    "CloseOffer": {
+        "message": "关闭报价"
+    },
+    "Comments": {
+        "message": "评论"
+    },
+    "PostComment": {
+        "message": "发表评论"
+    },
+    "WriteAComment": {
+        "message": "留下评论！"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "尚无评论...成为第一个发表评论的人！"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "该商品暂无贸易报价...成为第一个发布者！"
+    },
+    "SeeMore": {
+        "message": "看更多"
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Enhance Your Roblox Experience"
+    },
+    "description": {
+        "message": "The perfect tool for players & traders. RoPro adds dozens of useful features to Roblox."
+    },
+    "settings": {
+        "message": "Settings"
+    },
+    "manageSubscription": {
+        "message": "Manage Subscription"
+    },
+    "activateSubscription": {
+        "message": "Activate Subscription"
+    },
+    "support": {
+        "message": "Support"
+    },
+    "termsOfService": {
+        "message": "Terms of Service"
+    },
+    "privacyPolicy": {
+        "message": "Privacy Policy"
+    },
+    "help": {
+        "message": "Help"
+    },
+    "subscription": {
+        "message": "Subscription"
+    },
+    "disclaimer1": {
+        "message": "RoPro is not affiliated with Roblox.com or Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Made by Dice. Contact me: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "General Features"
+    },
+    "tradingFeatures": {
+        "message": "Trading Features"
+    },
+    "groupFeatures": {
+        "message": "Group Features"
+    },
+    "accountSecurityFeatures": {
+        "message": "Account Security Features"
+    },
+    "dealsNotifier": {
+        "message": "Deals Notifier"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Upgrade to save your outfits!"
+    },
+    "Upgrade": {
+        "message": "Upgrade"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Please consider leaving us a review!"
+    },
+    "Review": {
+        "message": "Review"
+    },
+    "CurrentlyWearing": {
+        "message": "Currently Wearing"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Click an item to unequip it."
+    },
+    "Background": {
+        "message": "Background"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Choose a background below."
+    },
+    "MyOutfits": {
+        "message": "My Outfits"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Press the enter key to submit outfit name."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Name and save your outfit."
+    },
+    "OutfitCost": {
+        "message": "Outfit Cost:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Successfully created outfit."
+    },
+    "RandomGame": {
+        "message": "Random Experience"
+    },
+    "MoreFilters": {
+        "message": "More Filters"
+    },
+    "FastestServers": {
+        "message": "Fastest Servers"
+    },
+    "MaxPlayers": {
+        "message": "Max Players"
+    },
+    "TradeOffers": {
+        "message": "Trade Offers"
+    },
+    "Reputation": {
+        "message": "Reputation"
+    },
+    "ChangeProfileTheme": {
+        "message": "Change Profile Theme"
+    },
+    "CloseProfileThemes": {
+        "message": "Close Profile Themes"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro Profile Themes"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Other RoPro users will see your theme when they visit your profile."
+    },
+    "AnimatedThemes": {
+        "message": "Animated Themes"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animated themes are available for subscribers only."
+    },
+    "CustomThemes": {
+        "message": "Custom Themes"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "To submit a custom theme for approval, join the RoPro discord server:"
+    },
+    "SaveTheme": {
+        "message": "Save Theme"
+    },
+    "RemoveTheme": {
+        "message": "Remove Theme"
+    },
+    "CreateOffer": {
+        "message": "Create Offer"
+    },
+    "CloseOffer": {
+        "message": "Close Offers"
+    },
+    "Comments": {
+        "message": "Comments"
+    },
+    "PostComment": {
+        "message": "Post Comment"
+    },
+    "WriteAComment": {
+        "message": "Write a comment!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "No comments yet... Be the first to write one!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "No trade offers for this item... Be the first to post one!"
+    },
+    "SeeMore": {
+        "message": "See More"
+    }
+}

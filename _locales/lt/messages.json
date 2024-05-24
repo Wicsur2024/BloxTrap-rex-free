@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - patobulinkite savo Roblox patirtį"
+    },
+    "description": {
+        "message": "Puikus įrankis žaidėjams ir prekybininkams.„RoPro“ prideda dešimtis naudingų „Roblox“ funkcijų."
+    },
+    "settings": {
+        "message": "Nustatymai"
+    },
+    "manageSubscription": {
+        "message": "Tvarkyti prenumeratą"
+    },
+    "activateSubscription": {
+        "message": "Suaktyvinti prenumeratą"
+    },
+    "support": {
+        "message": "Parama"
+    },
+    "termsOfService": {
+        "message": "Paslaugų teikimo sąlygos"
+    },
+    "privacyPolicy": {
+        "message": "Privatumo politika"
+    },
+    "help": {
+        "message": "Pagalba"
+    },
+    "subscription": {
+        "message": "Prenumerata"
+    },
+    "disclaimer1": {
+        "message": "„RoPro“ nėra susijęs su „Roblox.com“ ar „Rolimons.com“"
+    },
+    "disclaimer2": {
+        "message": "Pagaminta Dice.Susisiekite su manimi: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Bendrosios savybės"
+    },
+    "tradingFeatures": {
+        "message": "Prekybos ypatybės"
+    },
+    "groupFeatures": {
+        "message": "Grupės ypatybės"
+    },
+    "accountSecurityFeatures": {
+        "message": "Paskyros saugos funkcijos"
+    },
+    "dealsNotifier": {
+        "message": "Pasiūlymų pranešėjas"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Atnaujinkite, kad išsaugotumėte savo aprangą!"
+    },
+    "Upgrade": {
+        "message": "Patobulinti"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Apsvarstykite galimybę palikti mums apžvalgą!"
+    },
+    "Review": {
+        "message": "Apžvalga"
+    },
+    "CurrentlyWearing": {
+        "message": "Šiuo metu dėvi"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Spustelėkite elementą, kad jį išmontuotumėte."
+    },
+    "Background": {
+        "message": "Fonas"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Žemiau pasirinkite foną."
+    },
+    "MyOutfits": {
+        "message": "Mano apranga"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Norėdami pateikti aprangos pavadinimą, paspauskite klavišą „Enter“."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Pavadinkite ir išsaugokite savo aprangą."
+    },
+    "OutfitCost": {
+        "message": "Aprangos kaina:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Sėkmingai sukurta apranga."
+    },
+    "RandomGame": {
+        "message": "Atsitiktinis žaidimas"
+    },
+    "MoreFilters": {
+        "message": "Daugiau filtrų"
+    },
+    "FastestServers": {
+        "message": "Greičiausi serveriai"
+    },
+    "MaxPlayers": {
+        "message": "„Max Players“"
+    },
+    "TradeOffers": {
+        "message": "Prekybos pasiūlymai"
+    },
+    "Reputation": {
+        "message": "Reputacija"
+    },
+    "ChangeProfileTheme": {
+        "message": "Keisti profilio temą"
+    },
+    "CloseProfileThemes": {
+        "message": "Uždaryti profilio temas"
+    },
+    "RoProProfileThemes": {
+        "message": "„RoPro“ profilio temos"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Kiti „RoPro“ vartotojai pamatys jūsų temą apsilankę jūsų profilyje."
+    },
+    "AnimatedThemes": {
+        "message": "Animacinės temos"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animuotos temos yra prieinamos tik abonentams."
+    },
+    "CustomThemes": {
+        "message": "Pasirinktinės temos"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Norėdami pateikti pasirinktinę temą tvirtinti, prisijunkite prie „RoPro“ nesantaikos serverio:"
+    },
+    "SaveTheme": {
+        "message": "Išsaugoti temą"
+    },
+    "RemoveTheme": {
+        "message": "Pašalinti temą"
+    },
+    "CreateOffer": {
+        "message": "Sukurti pasiūlymą"
+    },
+    "CloseOffer": {
+        "message": "Uždaryti pasiūlymus"
+    },
+    "Comments": {
+        "message": "Komentarai"
+    },
+    "PostComment": {
+        "message": "Paskelbti komentarą"
+    },
+    "WriteAComment": {
+        "message": "Parašykite komentarą!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Kol kas nėra komentarų ... Būkite pirmas, parašęs!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Nėra jokių šios prekės prekybos pasiūlymų ... Būkite pirmas paskelbęs!"
+    },
+    "SeeMore": {
+        "message": "Žiūrėti daugiau"
+    }
+}

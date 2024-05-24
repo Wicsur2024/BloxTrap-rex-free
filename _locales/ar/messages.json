@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - عزز تجربة Roblox الخاصة بك"
+    },
+    "description": {
+        "message": "الأداة المثالية للاعبين والمتداولين. يضيف RoPro العشرات من الميزات المفيدة إلى Roblox."
+    },
+    "settings": {
+        "message": "إعدادات"
+    },
+    "manageSubscription": {
+        "message": "إدارة الاشتراك"
+    },
+    "activateSubscription": {
+        "message": "تفعيل الاشتراك"
+    },
+    "support": {
+        "message": "الدعم"
+    },
+    "termsOfService": {
+        "message": "شروط الخدمة"
+    },
+    "privacyPolicy": {
+        "message": "سياسة خاصة"
+    },
+    "help": {
+        "message": "مساعدة"
+    },
+    "subscription": {
+        "message": "الاشتراك"
+    },
+    "disclaimer1": {
+        "message": "لا تتبع RoPro موقع Roblox.com أو Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "التي أدلى بها النرد. الاتصال بي: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "الملامح العامة"
+    },
+    "tradingFeatures": {
+        "message": "ميزات التداول"
+    },
+    "groupFeatures": {
+        "message": "ميزات المجموعة"
+    },
+    "accountSecurityFeatures": {
+        "message": "ميزات أمان الحساب"
+    },
+    "dealsNotifier": {
+        "message": "منبه الصفقات"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "الترقية إلى حفظ الازياء الخاصة بك!"
+    },
+    "Upgrade": {
+        "message": "رفع مستوى"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "يرجى النظر في ترك لنا مراجعة!"
+    },
+    "Review": {
+        "message": "استعراض"
+    },
+    "CurrentlyWearing": {
+        "message": "يرتدي حاليا"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "انقر فوق عنصر لبخلع ذلك."
+    },
+    "Background": {
+        "message": "خلفية"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "اختيار خلفية أدناه."
+    },
+    "MyOutfits": {
+        "message": "أزيائي"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "اضغط على مفتاح الدخول لتقديم اسم الزي."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "اسم وحفظ الزي الخاص بك."
+    },
+    "OutfitCost": {
+        "message": "تكلفة الزي:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "بنجاح إنشاء جماعة."
+    },
+    "RandomGame": {
+        "message": "لعبة عشوائية"
+    },
+    "MoreFilters": {
+        "message": "المزيد من المرشحات"
+    },
+    "FastestServers": {
+        "message": "أسرع الخوادم"
+    },
+    "MaxPlayers": {
+        "message": "ماكس لاعبين"
+    },
+    "TradeOffers": {
+        "message": "عروض التجارة"
+    },
+    "Reputation": {
+        "message": "سمعة"
+    },
+    "ChangeProfileTheme": {
+        "message": "تغيير موضوع الملف الشخصي"
+    },
+    "CloseProfileThemes": {
+        "message": "أغلق سمات الملف الشخصي"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro سمات الملف الشخصي"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "سيرى مستخدمو RoPro المظهر الخاص بك عندما يزورون ملفك الشخصي."
+    },
+    "AnimatedThemes": {
+        "message": "ثيمات متحركة"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "متاحة للمشتركين فقط مواضيع الرسوم المتحركة."
+    },
+    "CustomThemes": {
+        "message": "ثيمات مخصصة"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "لإرسال سمة مخصصة للموافقة عليها ، انضم إلى خادم RoPro Discord:"
+    },
+    "SaveTheme": {
+        "message": "حفظ السمات"
+    },
+    "RemoveTheme": {
+        "message": "إزالة المظهر"
+    },
+    "CreateOffer": {
+        "message": "إنشاء عرض"
+    },
+    "CloseOffer": {
+        "message": "إغلاق العروض"
+    },
+    "Comments": {
+        "message": "تعليقات"
+    },
+    "PostComment": {
+        "message": "أضف تعليقا"
+    },
+    "WriteAComment": {
+        "message": "أكتب تعليقا!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "لا تعليقات حتى الآن. كن أول من يكتب تعليقا!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "أي عروض التجارة لهذا البند ... كن أول من وظيفة واحدة!"
+    },
+    "SeeMore": {
+        "message": "شاهد المزيد"
+    }
+}

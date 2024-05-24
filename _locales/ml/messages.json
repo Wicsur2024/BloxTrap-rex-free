@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - നിങ്ങളുടെ Roblox അനുഭവം മെച്ചപ്പെടുത്തുക"
+    },
+    "description": {
+        "message": "കളിക്കാർക്കും വ്യാപാരികൾക്കും അനുയോജ്യമായ ഉപകരണം.റോപ്രോക്‌സിന് ഉപയോഗപ്രദമായ സവിശേഷതകൾ റോപ്രോ ചേർക്കുന്നു."
+    },
+    "settings": {
+        "message": "ക്രമീകരണങ്ങൾ"
+    },
+    "manageSubscription": {
+        "message": "സബ്‌സ്‌ക്രിപ്‌ഷൻ നിയന്ത്രിക്കുക"
+    },
+    "activateSubscription": {
+        "message": "സബ്സ്ക്രിപ്ഷൻ സജീവമാക്കുക"
+    },
+    "support": {
+        "message": "പിന്തുണ"
+    },
+    "termsOfService": {
+        "message": "സേവന നിബന്ധനകൾ"
+    },
+    "privacyPolicy": {
+        "message": "സ്വകാര്യതാനയം"
+    },
+    "help": {
+        "message": "സഹായിക്കൂ"
+    },
+    "subscription": {
+        "message": "സബ്സ്ക്രിപ്ഷൻ"
+    },
+    "disclaimer1": {
+        "message": "RoPro, Roblox.com അല്ലെങ്കിൽ Rolimons.com മായി ബന്ധപ്പെടുത്തിയിട്ടില്ല"
+    },
+    "disclaimer2": {
+        "message": "ഡൈസ് നിർമ്മിച്ചത്.എന്നെ ബന്ധപ്പെടുക: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "പൊതുവായ സവിശേഷതകൾ"
+    },
+    "tradingFeatures": {
+        "message": "ട്രേഡിംഗ് സവിശേഷതകൾ"
+    },
+    "groupFeatures": {
+        "message": "ഗ്രൂപ്പ് സവിശേഷതകൾ"
+    },
+    "accountSecurityFeatures": {
+        "message": "അക്കൗണ്ട് സുരക്ഷാ സവിശേഷതകൾ"
+    },
+    "dealsNotifier": {
+        "message": "ഡീലുകൾ അറിയിപ്പ്"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "നിങ്ങളുടെ വസ്ത്രങ്ങൾ‌ സംരക്ഷിക്കുന്നതിന് നവീകരിക്കുക!"
+    },
+    "Upgrade": {
+        "message": "നവീകരിക്കുക"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "ഞങ്ങൾക്ക് ഒരു അവലോകനം നൽകുന്നത് പരിഗണിക്കുക!"
+    },
+    "Review": {
+        "message": "അവലോകനം"
+    },
+    "CurrentlyWearing": {
+        "message": "നിലവിൽ ധരിക്കുന്നു"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "ഒരു ഇനം ഒഴിവാക്കാൻ ക്ലിക്കുചെയ്യുക."
+    },
+    "Background": {
+        "message": "പശ്ചാത്തലം"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "ചുവടെ ഒരു പശ്ചാത്തലം തിരഞ്ഞെടുക്കുക."
+    },
+    "MyOutfits": {
+        "message": "എന്റെ വസ്ത്രങ്ങൾ"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "വസ്ത്രത്തിന്റെ പേര് സമർപ്പിക്കാൻ എന്റർ കീ അമർത്തുക."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "നിങ്ങളുടെ വസ്ത്രത്തിന്റെ പേര് നൽകി സംരക്ഷിക്കുക."
+    },
+    "OutfitCost": {
+        "message": "F ട്ട്‌ഫിറ്റ് ചെലവ്:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "വിജയകരമായി സൃഷ്ടിച്ച വസ്ത്രം."
+    },
+    "RandomGame": {
+        "message": "റാൻഡം ഗെയിം"
+    },
+    "MoreFilters": {
+        "message": "കൂടുതൽ ഫിൽട്ടറുകൾ"
+    },
+    "FastestServers": {
+        "message": "വേഗതയേറിയ സെർവറുകൾ"
+    },
+    "MaxPlayers": {
+        "message": "മാക്സ് കളിക്കാർ"
+    },
+    "TradeOffers": {
+        "message": "വ്യാപാര ഓഫറുകൾ"
+    },
+    "Reputation": {
+        "message": "മതിപ്പ്"
+    },
+    "ChangeProfileTheme": {
+        "message": "പ്രൊഫൈൽ തീം മാറ്റുക"
+    },
+    "CloseProfileThemes": {
+        "message": "പ്രൊഫൈൽ തീമുകൾ അടയ്‌ക്കുക"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro പ്രൊഫൈൽ തീമുകൾ"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "മറ്റ് RoPro ഉപയോക്താക്കൾ നിങ്ങളുടെ പ്രൊഫൈൽ സന്ദർശിക്കുമ്പോൾ നിങ്ങളുടെ തീം കാണും."
+    },
+    "AnimatedThemes": {
+        "message": "ആനിമേറ്റുചെയ്‌ത തീമുകൾ"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "ആനിമേറ്റുചെയ്‌ത തീമുകൾ സബ്‌സ്‌ക്രൈബർമാർക്ക് മാത്രം ലഭ്യമാണ്."
+    },
+    "CustomThemes": {
+        "message": "ഇഷ്‌ടാനുസൃത തീമുകൾ"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "അംഗീകാരത്തിനായി ഒരു ഇച്ഛാനുസൃത തീം സമർപ്പിക്കുന്നതിന്, RoPro ഡിസ്കോർഡ് സെർവറിൽ ചേരുക:"
+    },
+    "SaveTheme": {
+        "message": "തീം സംരക്ഷിക്കുക"
+    },
+    "RemoveTheme": {
+        "message": "തീം നീക്കംചെയ്യുക"
+    },
+    "CreateOffer": {
+        "message": "ഓഫർ സൃഷ്ടിക്കുക"
+    },
+    "CloseOffer": {
+        "message": "ഓഫറുകൾ അടയ്‌ക്കുക"
+    },
+    "Comments": {
+        "message": "അഭിപ്രായങ്ങൾ"
+    },
+    "PostComment": {
+        "message": "അഭിപ്രായം പോസ്റ്റ് ചെയ്യുക"
+    },
+    "WriteAComment": {
+        "message": "ഒരു അഭിപ്രായം എഴുതുക!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "ഇതുവരെ അഭിപ്രായങ്ങളൊന്നുമില്ല ... ഒരെണ്ണം ആദ്യമായി എഴുതുക!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "ഈ ഇനത്തിനായി ട്രേഡ് ഓഫറുകളൊന്നുമില്ല ... ഒരെണ്ണം ആദ്യം പോസ്റ്റുചെയ്യുക!"
+    },
+    "SeeMore": {
+        "message": "കൂടുതൽ കാണുക"
+    }
+}

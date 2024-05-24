@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Βελτιώστε την εμπειρία σας στο Roblox"
+    },
+    "description": {
+        "message": "Το τέλειο εργαλείο για παίκτες και εμπόρους.Το RoPro προσθέτει δεκάδες χρήσιμα χαρακτηριστικά στο Roblox."
+    },
+    "settings": {
+        "message": "Ρυθμίσεις"
+    },
+    "manageSubscription": {
+        "message": "Διαχείριση συνδρομής"
+    },
+    "activateSubscription": {
+        "message": "Ενεργοποίηση συνδρομής"
+    },
+    "support": {
+        "message": "Υποστήριξη"
+    },
+    "termsOfService": {
+        "message": "Όροι χρήσης"
+    },
+    "privacyPolicy": {
+        "message": "Πολιτική απορρήτου"
+    },
+    "help": {
+        "message": "Βοήθεια"
+    },
+    "subscription": {
+        "message": "Συνδρομή"
+    },
+    "disclaimer1": {
+        "message": "Το RoPro δεν σχετίζεται με το Roblox.com ή το Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Φτιαγμένο από τον Dice.Επικοινωνήστε μαζί μου: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Γενικά χαρακτηριστικά"
+    },
+    "tradingFeatures": {
+        "message": "Χαρακτηριστικά διαπραγμάτευσης"
+    },
+    "groupFeatures": {
+        "message": "Χαρακτηριστικά ομάδας"
+    },
+    "accountSecurityFeatures": {
+        "message": "Χαρακτηριστικά ασφαλείας λογαριασμού"
+    },
+    "dealsNotifier": {
+        "message": "Ειδοποιητής προσφορών"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Αναβαθμίστε για να σώσετε τα ρούχα σας!"
+    },
+    "Upgrade": {
+        "message": "Αναβαθμίζω"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Παρακαλούμε στείλτε μας μια κριτική!"
+    },
+    "Review": {
+        "message": "Ανασκόπηση"
+    },
+    "CurrentlyWearing": {
+        "message": "Φοράτε"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Κάντε κλικ σε ένα στοιχείο για να το ξεκουμπώσετε."
+    },
+    "Background": {
+        "message": "Ιστορικό"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Επιλέξτε ένα φόντο παρακάτω."
+    },
+    "MyOutfits": {
+        "message": "Τα ρούχα μου"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Πατήστε το πλήκτρο Enter για να υποβάλετε το όνομα της στολής"
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Ονομάστε και αποθηκεύστε τη στολή σας."
+    },
+    "OutfitCost": {
+        "message": "Κόστος στολής:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Δημιουργήθηκε επιτυχώς στολή."
+    },
+    "RandomGame": {
+        "message": "Τυχαίο παιχνίδι"
+    },
+    "MoreFilters": {
+        "message": "Περισσότερα φίλτρα"
+    },
+    "FastestServers": {
+        "message": "Ταχύτεροι διακομιστές"
+    },
+    "MaxPlayers": {
+        "message": "Μέγιστος αριθμός παικτών"
+    },
+    "TradeOffers": {
+        "message": "Εμπορικές προσφορές"
+    },
+    "Reputation": {
+        "message": "Φήμη"
+    },
+    "ChangeProfileTheme": {
+        "message": "Αλλαγή θέματος προφίλ"
+    },
+    "CloseProfileThemes": {
+        "message": "Κλείσιμο θεμάτων προφίλ"
+    },
+    "RoProProfileThemes": {
+        "message": "Θέματα προφίλ RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Άλλοι χρήστες RoPro θα δουν το θέμα σας όταν επισκέπτονται το προφίλ σας."
+    },
+    "AnimatedThemes": {
+        "message": "Κινούμενα θέματα"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Τα κινούμενα θέματα είναι διαθέσιμα μόνο για συνδρομητές."
+    },
+    "CustomThemes": {
+        "message": "Προσαρμοσμένα θέματα"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Για να υποβάλετε ένα προσαρμοσμένο θέμα για έγκριση, εγγραφείτε στον διακομιστή discord RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Αποθήκευση θέματος"
+    },
+    "RemoveTheme": {
+        "message": "Κατάργηση θέματος"
+    },
+    "CreateOffer": {
+        "message": "Δημιουργία προσφοράς"
+    },
+    "CloseOffer": {
+        "message": "Κλείσιμο Προσφορών"
+    },
+    "Comments": {
+        "message": "Σχόλια"
+    },
+    "PostComment": {
+        "message": "Αναρτήστε Σχόλιο"
+    },
+    "WriteAComment": {
+        "message": "Γράψε ένα σχόλιο!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Δεν υπάρχουν ακόμη σχόλια ... Γίνετε ο πρώτος που θα γράψει ένα!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Δεν υπάρχουν εμπορικές προσφορές για αυτό το αντικείμενο ... Γίνετε ο πρώτος που θα δημοσιεύσει ένα!"
+    },
+    "SeeMore": {
+        "message": "Δείτε περισσότερα"
+    }
+}

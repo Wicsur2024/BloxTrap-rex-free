@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - გაზარდეთ თქვენი Roblox გამოცდილება"
+    },
+    "description": {
+        "message": "შესანიშნავი საშუალება მოთამაშეთა და ტრეიდერებისთვის.RoPro რობლოქსს ათობით სასარგებლო თვისებას ანიჭებს."
+    },
+    "settings": {
+        "message": "პარამეტრები"
+    },
+    "manageSubscription": {
+        "message": "გამოწერის მართვა"
+    },
+    "activateSubscription": {
+        "message": "გაააქტიურეთ გამოწერა"
+    },
+    "support": {
+        "message": "მხარდაჭერა"
+    },
+    "termsOfService": {
+        "message": "Მომსახურების პირობები"
+    },
+    "privacyPolicy": {
+        "message": "Კონფიდენციალურობის პოლიტიკა"
+    },
+    "help": {
+        "message": "დახმარება"
+    },
+    "subscription": {
+        "message": "გამოწერა"
+    },
+    "disclaimer1": {
+        "message": "RoPro არ არის დაკავშირებული Roblox.com ან Rolimons.com– თან"
+    },
+    "disclaimer2": {
+        "message": "დამზადებულია კამათლის მიერ.დამიკავშირდით: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "ზოგადი მახასიათებლები"
+    },
+    "tradingFeatures": {
+        "message": "სავაჭრო მახასიათებლები"
+    },
+    "groupFeatures": {
+        "message": "ჯგუფის მახასიათებლები"
+    },
+    "accountSecurityFeatures": {
+        "message": "ანგარიშის უსაფრთხოების მახასიათებლები"
+    },
+    "dealsNotifier": {
+        "message": "გარიგებები Notifier"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "განაახლეთ თქვენი კოსტიუმების გადასარჩენად!"
+    },
+    "Upgrade": {
+        "message": "განახლება"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "გთხოვთ, განიხილოთ ჩვენთვის მიმოხილვის დატოვება!"
+    },
+    "Review": {
+        "message": "Მიმოხილვა"
+    },
+    "CurrentlyWearing": {
+        "message": "ამჟამად აცვია"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "დააჭირეთ ნივთს, რომ გამოაცხადოთ იგი."
+    },
+    "Background": {
+        "message": "ფონი"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "აირჩიეთ ფონი ქვემოთ."
+    },
+    "MyOutfits": {
+        "message": "ჩემი კოსტიუმები"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "დააჭირეთ ღილაკს Enter, რომ წარადგინოთ outfit სახელი."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "დაასახელეთ და შეინახეთ თქვენი სამოსი."
+    },
+    "OutfitCost": {
+        "message": "სამოსის ღირებულება:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "წარმატებით შეიქმნა ეკიპირება."
+    },
+    "RandomGame": {
+        "message": "შემთხვევითი თამაში"
+    },
+    "MoreFilters": {
+        "message": "მეტი ფილტრები"
+    },
+    "FastestServers": {
+        "message": "უსწრაფესი სერვერები"
+    },
+    "MaxPlayers": {
+        "message": "მაქსიმალური მოთამაშეები"
+    },
+    "TradeOffers": {
+        "message": "სავაჭრო შეთავაზებები"
+    },
+    "Reputation": {
+        "message": "რეპუტაცია"
+    },
+    "ChangeProfileTheme": {
+        "message": "პროფილის თემის შეცვლა"
+    },
+    "CloseProfileThemes": {
+        "message": "პროფილის თემების დახურვა"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro პროფილის თემები"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "RoPro- ს სხვა მომხმარებლები დაინახავენ თქვენს თემას, როდესაც ისინი თქვენს პროფილს ეწვევიან."
+    },
+    "AnimatedThemes": {
+        "message": "ანიმაციური თემები"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "ანიმაციური თემები ხელმისაწვდომია მხოლოდ აბონენტებისთვის."
+    },
+    "CustomThemes": {
+        "message": "მორგებული თემები"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "დასამტკიცებლად სპეციალური თემის წარსადგენად, შეუერთდით RoPro უთანხმოების სერვერს:"
+    },
+    "SaveTheme": {
+        "message": "შენახვა თემა"
+    },
+    "RemoveTheme": {
+        "message": "თემის ამოღება"
+    },
+    "CreateOffer": {
+        "message": "შეთავაზების შექმნა"
+    },
+    "CloseOffer": {
+        "message": "დახურეთ შემოთავაზებები"
+    },
+    "Comments": {
+        "message": "კომენტარები"
+    },
+    "PostComment": {
+        "message": "კომენტარის დატოვება"
+    },
+    "WriteAComment": {
+        "message": "Დაწერე კომენტარი!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "ჯერ კომენტარი არ არის ... პირველი დაწერე!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "ამ საქონელზე სავაჭრო შეთავაზებები არ არის ... იყავით პირველი ვინც გამოაქვეყნებს მას!"
+    },
+    "SeeMore": {
+        "message": "Მეტის ნახვა"
+    }
+}

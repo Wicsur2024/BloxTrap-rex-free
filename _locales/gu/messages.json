@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - તમારા Roblox અનુભવને વધારવો"
+    },
+    "description": {
+        "message": "ખેલાડીઓ અને વેપારીઓ માટે સંપૂર્ણ સાધન.રોપ્રો રોબ્લોક્સમાં ડઝનેક ઉપયોગી સુવિધાઓ ઉમેરે છે."
+    },
+    "settings": {
+        "message": "સેટિંગ્સ"
+    },
+    "manageSubscription": {
+        "message": "સબ્સ્ક્રિપ્શન મેનેજ કરો"
+    },
+    "activateSubscription": {
+        "message": "સબ્સ્ક્રિપ્શન સક્રિય કરો"
+    },
+    "support": {
+        "message": "આધાર"
+    },
+    "termsOfService": {
+        "message": "સેવાની શરતો"
+    },
+    "privacyPolicy": {
+        "message": "ગોપનીયતા નીતિ"
+    },
+    "help": {
+        "message": "સહાય કરો"
+    },
+    "subscription": {
+        "message": "સબ્સ્ક્રિપ્શન"
+    },
+    "disclaimer1": {
+        "message": "રોપ્રો રોબ્લોક્સ.કોમ અથવા રોલીમન્સ.કોમ સાથે જોડાયેલ નથી"
+    },
+    "disclaimer2": {
+        "message": "ડાઇસ દ્વારા બનાવવામાં આવે છે.મને સંપર્ક કરો: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "સામાન્ય સુવિધાઓ"
+    },
+    "tradingFeatures": {
+        "message": "વેપાર સુવિધાઓ"
+    },
+    "groupFeatures": {
+        "message": "જૂથ સુવિધાઓ"
+    },
+    "accountSecurityFeatures": {
+        "message": "એકાઉન્ટ સુરક્ષા સુવિધાઓ"
+    },
+    "dealsNotifier": {
+        "message": "ડીલ્સ સૂચક"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "તમારા પોશાક પહેરે સાચવવા માટે અપગ્રેડ કરો!"
+    },
+    "Upgrade": {
+        "message": "અપગ્રેડ કરો"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "કૃપા કરીને અમને સમીક્ષા આપવાનું ધ્યાનમાં લો!"
+    },
+    "Review": {
+        "message": "સમીક્ષા"
+    },
+    "CurrentlyWearing": {
+        "message": "હાલમાં પહેરે છે"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "કોઈ વસ્તુને દૂર કરવા માટે તેને ક્લિક કરો."
+    },
+    "Background": {
+        "message": "પૃષ્ઠભૂમિ"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "નીચે પૃષ્ઠભૂમિ પસંદ કરો."
+    },
+    "MyOutfits": {
+        "message": "મારા પોશાક પહેરે"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "સરંજામનું નામ સબમિટ કરવા માટે enter કી દબાવો."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "તમારા પોશાકને નામ આપો અને સાચવો."
+    },
+    "OutfitCost": {
+        "message": "સરંજામ કિંમત:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "સફળતાપૂર્વક સરંજામ બનાવ્યો."
+    },
+    "RandomGame": {
+        "message": "રેન્ડમ ગેમ"
+    },
+    "MoreFilters": {
+        "message": "વધુ ગાળકો"
+    },
+    "FastestServers": {
+        "message": "ઝડપી સર્વરો"
+    },
+    "MaxPlayers": {
+        "message": "મેક્સ પ્લેયર્સ"
+    },
+    "TradeOffers": {
+        "message": "વેપાર ersફર્સ"
+    },
+    "Reputation": {
+        "message": "પ્રતિષ્ઠા"
+    },
+    "ChangeProfileTheme": {
+        "message": "પ્રોફાઇલ થીમ બદલો"
+    },
+    "CloseProfileThemes": {
+        "message": "પ્રોફાઇલ થીમ્સ બંધ કરો"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro પ્રોફાઇલ થીમ્સ"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "જ્યારે અન્ય પ્રોપ્રૂઝ વપરાશકર્તાઓ તમારી પ્રોફાઇલની મુલાકાત લેશે ત્યારે તેઓ તમારી થીમ જોશે."
+    },
+    "AnimatedThemes": {
+        "message": "એનિમેટેડ થીમ્સ"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "એનિમેટેડ થીમ્સ ફક્ત સબ્સ્ક્રાઇબર્સ માટે ઉપલબ્ધ છે."
+    },
+    "CustomThemes": {
+        "message": "કસ્ટમ થીમ્સ"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "મંજૂરી માટે કસ્ટમ થીમ સબમિટ કરવા માટે, રોપ્રો ડિસકોર્ડ સર્વરમાં જોડાઓ:"
+    },
+    "SaveTheme": {
+        "message": "થીમ સાચવો"
+    },
+    "RemoveTheme": {
+        "message": "થીમ દૂર કરો"
+    },
+    "CreateOffer": {
+        "message": "Createફર બનાવો"
+    },
+    "CloseOffer": {
+        "message": "Closeફર્સ બંધ કરો"
+    },
+    "Comments": {
+        "message": "ટિપ્પણીઓ"
+    },
+    "PostComment": {
+        "message": "ટિપ્પણી પોસ્ટ કરો"
+    },
+    "WriteAComment": {
+        "message": "એક ટિપ્પણી લખો!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "હજી સુધી કોઈ ટિપ્પણી નથી ... એક લખવા માટે પ્રથમ બનો!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "આ આઇટમ માટે કોઈ વેપાર offersફર નથી ... એક પોસ્ટ કરનારી પ્રથમ બનો!"
+    },
+    "SeeMore": {
+        "message": "વધુ જુઓ"
+    }
+}

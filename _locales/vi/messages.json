@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Nâng cao trải nghiệm Roblox của bạn"
+    },
+    "description": {
+        "message": "Công cụ hoàn hảo cho người chơi và nhà giao dịch. RoPro bổ sung hàng chục tính năng hữu ích cho Roblox."
+    },
+    "settings": {
+        "message": "Cài đặt"
+    },
+    "manageSubscription": {
+        "message": "Quản lý thuê bao"
+    },
+    "activateSubscription": {
+        "message": "Kích hoạt đăng ký"
+    },
+    "support": {
+        "message": "Ủng hộ"
+    },
+    "termsOfService": {
+        "message": "Điều khoản dịch vụ"
+    },
+    "privacyPolicy": {
+        "message": "Chính sách bảo mật"
+    },
+    "help": {
+        "message": "Cứu giúp"
+    },
+    "subscription": {
+        "message": "Đăng ký"
+    },
+    "disclaimer1": {
+        "message": "RoPro không liên kết với Roblox.com hoặc Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Thực hiện bởi Dice.Liên hệ với tôi: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Các tính năng chung"
+    },
+    "tradingFeatures": {
+        "message": "Tính năng giao dịch"
+    },
+    "groupFeatures": {
+        "message": "Tính năng nhóm"
+    },
+    "accountSecurityFeatures": {
+        "message": "Tính năng bảo mật tài khoản"
+    },
+    "dealsNotifier": {
+        "message": "Trình thông báo giao dịch"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Nâng cấp để tiết kiệm trang phục của bạn!"
+    },
+    "Upgrade": {
+        "message": "Nâng cấp"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Vui lòng xem xét để lại cho chúng tôi một đánh giá!"
+    },
+    "Review": {
+        "message": "Ôn tập"
+    },
+    "CurrentlyWearing": {
+        "message": "Hiện đang mặc"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Nhấp vào một mục để tìm hiểu nó."
+    },
+    "Background": {
+        "message": "Lý lịch"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Chọn hình nền bên dưới."
+    },
+    "MyOutfits": {
+        "message": "Trang phục của tôi"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Nhấn phím enter để gửi tên trang phục."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Đặt tên và lưu trang phục của bạn."
+    },
+    "OutfitCost": {
+        "message": "Chi phí trang phục:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Đã tạo thành công trang phục."
+    },
+    "RandomGame": {
+        "message": "Trò chơi ngẫu nhiên"
+    },
+    "MoreFilters": {
+        "message": "Bộ lọc khác"
+    },
+    "FastestServers": {
+        "message": "Máy chủ nhanh nhất"
+    },
+    "MaxPlayers": {
+        "message": "Số người chơi tối đa"
+    },
+    "TradeOffers": {
+        "message": "Ưu đãi thương mại"
+    },
+    "Reputation": {
+        "message": "Uy tín"
+    },
+    "ChangeProfileTheme": {
+        "message": "Thay đổi chủ đề hồ sơ"
+    },
+    "CloseProfileThemes": {
+        "message": "Đóng chủ đề hồ sơ"
+    },
+    "RoProProfileThemes": {
+        "message": "Chủ đề hồ sơ RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Những người dùng RoPro khác sẽ thấy chủ đề của bạn khi họ truy cập hồ sơ của bạn."
+    },
+    "AnimatedThemes": {
+        "message": "Chủ đề hoạt hình"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Chủ đề hoạt hình chỉ có sẵn cho người đăng ký."
+    },
+    "CustomThemes": {
+        "message": "Chủ đề tùy chỉnh"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Để gửi chủ đề tùy chỉnh để được phê duyệt, hãy tham gia máy chủ bất hòa RoPro:"
+    },
+    "SaveTheme": {
+        "message": "Lưu chủ đề"
+    },
+    "RemoveTheme": {
+        "message": "Xóa chủ đề"
+    },
+    "CreateOffer": {
+        "message": "Tạo phiếu mua hàng"
+    },
+    "CloseOffer": {
+        "message": "Đóng phiếu mua hàng"
+    },
+    "Comments": {
+        "message": "Bình luận"
+    },
+    "PostComment": {
+        "message": "đăng bình luận"
+    },
+    "WriteAComment": {
+        "message": "Viết bình luận!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Chưa có bình luận nào ... Hãy là người đầu tiên viết!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Không có ưu đãi thương mại nào cho mặt hàng này ... Hãy là người đầu tiên đăng một!"
+    },
+    "SeeMore": {
+        "message": "Xem thêm"
+    }
+}

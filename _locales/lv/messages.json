@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - uzlabojiet savu Roblox pieredzi"
+    },
+    "description": {
+        "message": "Ideāls rīks spēlētājiem un tirgotājiem.RoPro pievieno Roblox desmitiem noderīgu funkciju."
+    },
+    "settings": {
+        "message": "Iestatījumi"
+    },
+    "manageSubscription": {
+        "message": "Pārvaldīt abonementu"
+    },
+    "activateSubscription": {
+        "message": "Aktivizēt abonementu"
+    },
+    "support": {
+        "message": "Atbalsts"
+    },
+    "termsOfService": {
+        "message": "Pakalpojuma noteikumi"
+    },
+    "privacyPolicy": {
+        "message": "Privātuma politika"
+    },
+    "help": {
+        "message": "Palīdzība"
+    },
+    "subscription": {
+        "message": "Abonēšana"
+    },
+    "disclaimer1": {
+        "message": "RoPro nav saistīts ar Roblox.com vai Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Izgatavoja Dice.Sazinieties ar mani: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Vispārīgas iezīmes"
+    },
+    "tradingFeatures": {
+        "message": "Tirdzniecības funkcijas"
+    },
+    "groupFeatures": {
+        "message": "Grupas funkcijas"
+    },
+    "accountSecurityFeatures": {
+        "message": "Konta drošības funkcijas"
+    },
+    "dealsNotifier": {
+        "message": "Darījumu paziņotājs"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Jauniniet, lai saglabātu savus tērpus!"
+    },
+    "Upgrade": {
+        "message": "Jaunināt"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Lūdzu, apsveriet iespēju atstāt mums atsauksmi!"
+    },
+    "Review": {
+        "message": "Pārskatīšana"
+    },
+    "CurrentlyWearing": {
+        "message": "Pašlaik valkā"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Noklikšķiniet uz vienuma, lai to aprīkotu."
+    },
+    "Background": {
+        "message": "Priekšvēsture"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Zemāk izvēlieties fonu."
+    },
+    "MyOutfits": {
+        "message": "Mani tērpi"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Nospiediet ievadīšanas taustiņu, lai iesniegtu apģērba nosaukumu."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Nosauciet un saglabājiet savu apģērbu."
+    },
+    "OutfitCost": {
+        "message": "Apģērba izmaksas:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Veiksmīgi izveidots apģērbs."
+    },
+    "RandomGame": {
+        "message": "Izlases spēle"
+    },
+    "MoreFilters": {
+        "message": "Vairāk filtru"
+    },
+    "FastestServers": {
+        "message": "Ātrākie serveri"
+    },
+    "MaxPlayers": {
+        "message": "Maksimālais spēlētāju skaits"
+    },
+    "TradeOffers": {
+        "message": "Tirdzniecības piedāvājumi"
+    },
+    "Reputation": {
+        "message": "Reputācija"
+    },
+    "ChangeProfileTheme": {
+        "message": "Mainīt profila tēmu"
+    },
+    "CloseProfileThemes": {
+        "message": "Aizvērt profila motīvus"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro profilu tēmas"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Citi RoPro lietotāji redzēs jūsu motīvu, apmeklējot jūsu profilu."
+    },
+    "AnimatedThemes": {
+        "message": "Animētas tēmas"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animētas tēmas ir pieejamas tikai abonentiem."
+    },
+    "CustomThemes": {
+        "message": "Pielāgotas tēmas"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Lai iesniegtu apstiprināšanai pielāgotu motīvu, pievienojieties RoPro nesaskaņu serverim:"
+    },
+    "SaveTheme": {
+        "message": "Saglabāt motīvu"
+    },
+    "RemoveTheme": {
+        "message": "Noņemt motīvu"
+    },
+    "CreateOffer": {
+        "message": "Izveidot piedāvājumu"
+    },
+    "CloseOffer": {
+        "message": "Aizvērt piedāvājumus"
+    },
+    "Comments": {
+        "message": "Komentāri"
+    },
+    "PostComment": {
+        "message": "publicēt komentāru"
+    },
+    "WriteAComment": {
+        "message": "Uzraksti komentāru!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Pagaidām nav komentāru ... Esi pirmais, kurš to uzraksta!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Šai precei nav tirdzniecības piedāvājumu ... Esiet pirmais, kurš to ievietojis!"
+    },
+    "SeeMore": {
+        "message": "Redzēt vairāk"
+    }
+}

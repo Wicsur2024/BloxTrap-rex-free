@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Poboljšajte svoje iskustvo s Roblox"
+    },
+    "description": {
+        "message": "Savršen alat za igrače i trgovce. RoPro dodaje na desetke korisnih značajki Roblox."
+    },
+    "settings": {
+        "message": "Postavke"
+    },
+    "manageSubscription": {
+        "message": "Upravljanje pretplatom"
+    },
+    "activateSubscription": {
+        "message": "Aktivirajte pretplatu"
+    },
+    "support": {
+        "message": "Podrška"
+    },
+    "termsOfService": {
+        "message": "Uvjeti pružanja usluge"
+    },
+    "privacyPolicy": {
+        "message": "Pravila o privatnosti"
+    },
+    "help": {
+        "message": "Pomozite"
+    },
+    "subscription": {
+        "message": "Pretplata"
+    },
+    "disclaimer1": {
+        "message": "RoPro nije povezan s Roblox.com ili Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Izradio Dice.Kontaktirajte me: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Osnovne značajke"
+    },
+    "tradingFeatures": {
+        "message": "Značajke trgovanja"
+    },
+    "groupFeatures": {
+        "message": "Grupne značajke"
+    },
+    "accountSecurityFeatures": {
+        "message": "Značajke sigurnosti računa"
+    },
+    "dealsNotifier": {
+        "message": "Obavijesti o ponudama"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Nadogradite da biste sačuvali odjeću!"
+    },
+    "Upgrade": {
+        "message": "Nadogradite"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Molimo razmislite da nam ostavite pregled!"
+    },
+    "Review": {
+        "message": "Pregled"
+    },
+    "CurrentlyWearing": {
+        "message": "Trenutno se nosi"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Kliknite stavku da biste je uklonili."
+    },
+    "Background": {
+        "message": "Pozadina"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Odaberite pozadinu u nastavku."
+    },
+    "MyOutfits": {
+        "message": "Moja odjeća"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Pritisnite tipku enter da biste poslali naziv odjeće."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Imenujte i spremite svoju odjeću."
+    },
+    "OutfitCost": {
+        "message": "Trošak odjeće:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Uspješno stvorena odjeća."
+    },
+    "RandomGame": {
+        "message": "Slučajna igra"
+    },
+    "MoreFilters": {
+        "message": "Više filtera"
+    },
+    "FastestServers": {
+        "message": "Najbrži poslužitelji"
+    },
+    "MaxPlayers": {
+        "message": "Maksimalno igrača"
+    },
+    "TradeOffers": {
+        "message": "Trgovinske ponude"
+    },
+    "Reputation": {
+        "message": "Ugled"
+    },
+    "ChangeProfileTheme": {
+        "message": "Promijeni temu profila"
+    },
+    "CloseProfileThemes": {
+        "message": "Zatvori teme profila"
+    },
+    "RoProProfileThemes": {
+        "message": "Teme profila RoPro"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Ostali korisnici RoProa vidjet će vašu temu kad posjete vaš profil."
+    },
+    "AnimatedThemes": {
+        "message": "Animirane teme"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animirane teme dostupne su samo pretplatnicima."
+    },
+    "CustomThemes": {
+        "message": "Prilagođene teme"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "Da biste predali prilagođenu temu na odobrenje, pridružite se RoPro discord poslužitelju:"
+    },
+    "SaveTheme": {
+        "message": "Spremi temu"
+    },
+    "RemoveTheme": {
+        "message": "Uklonite temu"
+    },
+    "CreateOffer": {
+        "message": "Izradite ponudu"
+    },
+    "CloseOffer": {
+        "message": "Zatvorite ponude"
+    },
+    "Comments": {
+        "message": "Komentari"
+    },
+    "PostComment": {
+        "message": "Objavi komentar"
+    },
+    "WriteAComment": {
+        "message": "Napiši komentar!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Još nema komentara ... Budite prvi koji će ga napisati!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Nema ponuda za ovaj predmet ... Budite prvi koji će ga objaviti!"
+    },
+    "SeeMore": {
+        "message": "Vidi više"
+    }
+}

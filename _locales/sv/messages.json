@@ -1,0 +1,164 @@
+{
+    "name": {
+        "message": "RoPro - Förbättra din Roblox upplevelse"
+    },
+    "description": {
+        "message": "Det perfekta verktyget för spelare och handlare. RoPro lägger till dussintals användbara funktioner i Roblox."
+    },
+    "settings": {
+        "message": "inställningar"
+    },
+    "manageSubscription": {
+        "message": "Hantera prenumeration"
+    },
+    "activateSubscription": {
+        "message": "Aktivera prenumeration"
+    },
+    "support": {
+        "message": "Stöd"
+    },
+    "termsOfService": {
+        "message": "Användarvillkor"
+    },
+    "privacyPolicy": {
+        "message": "Integritetspolicy"
+    },
+    "help": {
+        "message": "Hjälp"
+    },
+    "subscription": {
+        "message": "Prenumeration"
+    },
+    "disclaimer1": {
+        "message": "RoPro är inte anslutet till Roblox.com eller Rolimons.com"
+    },
+    "disclaimer2": {
+        "message": "Tillverkad av Dice.Kontakta mig: dice@ropro.io"
+    },
+    "generalFeatures": {
+        "message": "Allmänna funktioner"
+    },
+    "tradingFeatures": {
+        "message": "Handelsfunktioner"
+    },
+    "groupFeatures": {
+        "message": "Gruppfunktioner"
+    },
+    "accountSecurityFeatures": {
+        "message": "Kontosäkerhetsfunktioner"
+    },
+    "dealsNotifier": {
+        "message": "Deal Notifier"
+    },
+    "UpgradeToSaveYourOutfits": {
+        "message": "Uppgradera för att spara dina kläder!"
+    },
+    "Upgrade": {
+        "message": "Uppgradera"
+    },
+    "PleaseConsiderLeavingUsAReview": {
+        "message": "Vänligen lämna oss en recension!"
+    },
+    "Review": {
+        "message": "Recension"
+    },
+    "CurrentlyWearing": {
+        "message": "För närvarande bär"
+    },
+    "ClickAnItemToUnequipIt": {
+        "message": "Klicka på ett objekt för att ta bort det."
+    },
+    "Background": {
+        "message": "Bakgrund"
+    },
+    "ChooseABackgroundBelow": {
+        "message": "Välj en bakgrund nedan."
+    },
+    "MyOutfits": {
+        "message": "Mina kläder"
+    },
+    "PressTheEnterKeyToSubmitOutfitName": {
+        "message": "Tryck på Enter-tangenten för att skicka klädnamn."
+    },
+    "NameAndSaveYourOutfit": {
+        "message": "Namnge och spara din outfit."
+    },
+    "OutfitCost": {
+        "message": "Kostnadsutrustning:"
+    },
+    "SuccessfullyCreatedOutfit": {
+        "message": "Framgångsrikt skapad outfit."
+    },
+    "RandomGame": {
+        "message": "Slumpmässigt spel"
+    },
+    "MoreFilters": {
+        "message": "Fler filter"
+    },
+    "FastestServers": {
+        "message": "Snabbaste servrarna"
+    },
+    "MaxPlayers": {
+        "message": "Max spelare"
+    },
+    "TradeOffers": {
+        "message": "Handelserbjudanden"
+    },
+    "Reputation": {
+        "message": "Rykte"
+    },
+    "ChangeProfileTheme": {
+        "message": "Ändra profiltema"
+    },
+    "CloseProfileThemes": {
+        "message": "Stäng profilteman"
+    },
+    "RoProProfileThemes": {
+        "message": "RoPro-profilteman"
+    },
+    "OtherRoproUsersWillSeeYourThemeWhenTheyVisitYourProfile": {
+        "message": "Andra RoPro-användare ser ditt tema när de besöker din profil."
+    },
+    "AnimatedThemes": {
+        "message": "Animerade teman"
+    },
+    "AnimatedThemesAreAvailableForSubscribersOnly": {
+        "message": "Animerade teman är endast tillgängliga för prenumeranter."
+    },
+    "CustomThemes": {
+        "message": "Anpassade teman"
+    },
+    "ToSubmitACustomThemeForApprovalJoinTheRoProDiscordServer": {
+        "message": "För att skicka ett anpassat tema för godkännande, gå med i RoPro-diskordsservern:"
+    },
+    "SaveTheme": {
+        "message": "Spara tema"
+    },
+    "RemoveTheme": {
+        "message": "Ta bort tema"
+    },
+    "CreateOffer": {
+        "message": "Skapa erbjudande"
+    },
+    "CloseOffer": {
+        "message": "Stäng erbjudanden"
+    },
+    "Comments": {
+        "message": "Kommentarer"
+    },
+    "PostComment": {
+        "message": "Publicera kommentar"
+    },
+    "WriteAComment": {
+        "message": "Skriv en kommentar!"
+    },
+    "NoCommentsYetBeTheFirstToWriteOne": {
+        "message": "Inga kommentarer än ... Var den första att skriva en!"
+    },
+    "NoTradeOffersForThisItemBeTheFirstToPostOne": {
+        "message": "Inga handelserbjudanden för denna artikel ... Var den första att publicera en!"
+    },
+    "SeeMore": {
+        "message": "Se mer"
+    }
+}
